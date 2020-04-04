@@ -1,0 +1,33 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"><title>Hongfa Ding</title><meta name="author" content="Hongfa Ding"><link rel="shortcut icon" href="/img/favicon.png"><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css"><meta name="generator" content="Hexo 4.2.0"><link rel="alternate" href="/atom.xml" title="Hongfa Ding" type="application/atom+xml">
+</head><body><header id="page_header"><div class="header_wrap"><div id="blog_name"><a class="blog_title" id="site-name" href="/">Hongfa Ding</a></div><ul class="menus_items"><li class="menus_item"><a class="site-page" href="/publication"> Publications</a></li><li class="menus_item"><a class="site-page" href="/about"> About</a></li><li class="menus_item"><a class="site-page" href="/posts"> Blog</a></li><li class="menus_item"><a class="site-page" href="/tags"> tags</a></li></ul></div></header><main id="page_main"><div class="side-card sticky"><div class="card-wrap" itemscope itemtype="http://schema.org/Person"><div class="author-avatar"><img class="avatar-img" src="/img/avatar.jpg" onerror="this.onerror=null;this.src='/img/profile.jpg'" alt="avatar"></div><div class="author-discrip"><h3>Hongfa Ding</h3><p class="author-bio">Your biography can be writed down here.</p></div><div class="author-links"><button class="btn m-social-links">Links</button><ul class="social-icons"><li><a class="social-icon" href="https://github.com/gufe-hfding" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li><li><a class="social-icon" href="/img/wechat.jpg" target="_blank"><i class="fa fa-wechat" aria-hidden="true"></i></a></li><li><a class="social-icon" href="mailto:hongfa.ding@foxmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a></li><li><a class="social-icon" href="/atom.xml" target="_blank"><i class="fa fa-rss" aria-hidden="true"></i></a></li></ul><ul class="social-links"><li><a class="social-icon" href="/" target="_blank"><i class="fa fa-link" aria-hidden="true"><span>Google Scholar</span></i></a></li><li><a class="social-icon" href="https://orcid.org/0000-0003-4741-8896" target="_blank"><i class="fa fa-link" aria-hidden="true"><span>ORCID</span></i></a></li></ul></div><a class="cv-links" href="/attaches/cv.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"><span>My Detail CV.</span></i></a></div></div><div class="page" itemscope itemtype="http://schema.org/CreativeWork"><h2 class="page-title">install_r_on_azure_hdinsight_in_china</h2><article><p>+++<br>date = 2016-04-20<br>lastmod = 2017-09-03<br>draft = false<br>tags = [“Rhadoop”,”Azure”]<br>title = “中国区Azure在windows HDinsight上安装Rhadoop”<br>math = true<br>summary = “介绍如何在Azure安装rhadoop”</p>
+<p>[header]<br>+++</p>
+<p>本文记录在windows 操作系统上安装Azure Hdinsight 的Rhadoop过程及核心步骤，仅适用于中国区Azure，在未来中国区Azure与Global Azure同步后，可能不在适用。<br>参考MSDN链接为，该链接适用Global Azure。</p>
+<blockquote>
+<p><a href="https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-r-scripts/" target="_blank" rel="noopener">https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-r-scripts/</a></p>
+</blockquote>
+<p>此过程得到了世纪互联的工程师Zhang Xiangyu，Jun Chen，He Shu的帮助。</p>
+<h2 id="登陆Azure账户"><a href="#登陆Azure账户" class="headerlink" title="登陆Azure账户"></a>登陆Azure账户</h2><p>用微软分配的Azure账户登陆，进入到门户界面。</p>
+<p>![Firg. 1 login page](/img/install r on hdinsight Fig 1.png)</p>
+<h2 id="自定义部署HDinsight"><a href="#自定义部署HDinsight" class="headerlink" title="自定义部署HDinsight"></a>自定义部署HDinsight</h2><ol>
+<li>新建HDinsight</li>
+</ol>
+<p>![Firg. 2 deploy HDinsight](/img/install r on hdinsight Fig 2.png)</p>
+<ol start="2">
+<li>填写集群信息</li>
+</ol>
+<p>![Firg. 3 cluster information](/img/install r on hdinsight Fig 3.png)</p>
+<p>3.直到最后一步</p>
+<p>![Firg. 4 Install R scripts](/img/install r on hdinsight Fig 4.png)<br>该脚本地址为:</p>
+<blockquote>
+<p><a href="https://hdiconfigactions.blob.core.windows.net/rconfigactionv02/r-installer-v02.ps1" target="_blank" rel="noopener">https://hdiconfigactions.blob.core.windows.net/rconfigactionv02/r-installer-v02.ps1</a></p>
+</blockquote>
+<p>并且提交，系统自动部署</p>
+<p>![Firg. 5 submits](/img/install r on hdinsight Fig 5.png)</p>
+<h2 id="Rhadoop测试"><a href="#Rhadoop测试" class="headerlink" title="Rhadoop测试"></a>Rhadoop测试</h2><p>1.下载rdp文件,并远程登录</p>
+<p>![Firg. 6 download rdp](/img/install r on hdinsight Fig 6.png)</p>
+<p>![Firg. 7 remote login by rdp](/img/install r on hdinsight Fig 7.png)</p>
+<p>2.测试脚本</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">library(rmr2)</span><br><span class="line">library(rhdfs)</span><br><span class="line">#rhdfs.init()  第一次运行Rhadoop要用此句初始化hdfs</span><br><span class="line">ints &#x3D; to.dfs(1:100)</span><br><span class="line">calc &#x3D; mapreduce(input &#x3D; ints, map &#x3D; function(k, v) cbind(v, 2*v))</span><br><span class="line">from.dfs(calc)</span><br></pre></td></tr></table></figure>
+
+<p>![Firg. 7 test R scripts](/img/install r on hdinsight Fig 8.png)</p>
+</article></div></main><div class="nav-wrap"><div class="nav"><button class="site-nav"><div class="navicon"></div></button><ul class="nav_items"><li class="nav_item"><a class="nav-page" href="/publication"> Publications</a></li><li class="nav_item"><a class="nav-page" href="/about"> About</a></li><li class="nav_item"><a class="nav-page" href="/posts"> Blog</a></li><li class="nav_item"><a class="nav-page" href="/tags"> tags</a></li></ul></div><div class="cd-top"><i class="fa fa-arrow-up" aria-hidden="true"></i></div></div><footer id="page_footer"><div class="footer_wrap"><div class="copyright">&copy;2020 by Hongfa Ding</div><div class="theme-info">Powered by <a href="https://hexo.io" target="_blank" rel="nofollow noopener">Hexo</a> & <a href="https://github.com/PhosphorW/hexo-theme-academia" target="_blank" rel="nofollow noopener">Academia Theme</a></div></div></footer><script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script><script src="/js/main.js"></script></body></html>
