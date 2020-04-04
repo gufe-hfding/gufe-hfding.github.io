@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="gufe-hfding.github.io/"/>
-  <updated>2020-04-02T06:13:14.306Z</updated>
+  <updated>2020-04-04T14:27:24.310Z</updated>
   <id>gufe-hfding.github.io/</id>
   
   <author>
@@ -17,19 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>about</title>
-    <link href="gufe-hfding.github.io/2020/04/02/about/"/>
-    <id>gufe-hfding.github.io/2020/04/02/about/</id>
+    <title>leatest-information</title>
+    <link href="gufe-hfding.github.io/2020/04/02/leatest-information/"/>
+    <id>gufe-hfding.github.io/2020/04/02/leatest-information/</id>
     <published>2020-04-02T01:58:52.000Z</published>
-    <updated>2020-04-02T06:13:14.306Z</updated>
+    <updated>2020-04-04T14:27:24.310Z</updated>
     
-    <content type="html"><![CDATA[<p>Hongfa is an Assistant Professor at Guizhou University of Finance and Economics. Concurrently, he is working with Prof. Changgen Peng as a postdoc fellow at State Key Laboratory of Public Big Data, Guiyang. His research interests include cryptography and privacy in mechine learning and networks.</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Bio"><a href="#Bio" class="headerlink" title="Bio"></a>Bio</h1><p>Hongfa is an assistant professor at Guizhou University of Finance and Economics. Concurrently, he is working with Prof. Changgen Peng as a postdoc fellow at State Key Laboratory of Public Big Data, Guiyang. His research interests include security &amp; privacy  of mechine learning, graph data, genomic data, data opening and sharing, etc..</p><h1 id="News"><a href="#News" class="headerlink" title="News"></a>News</h1><ul><li>Apr. 2020. 欢迎报考、调剂贵州财经大学计算机科学与技术硕士研究生。</li><li>Jan. 2020. Our paper entitled “隐私保护的信息熵模型及其度量方法” is selected as one of high-impact papers of <em>Journal of Software</em>, 2018. <a href="http://www.jos.org.cn/jos/ch/reader/view_news.aspx?id=20200106114350001" target="_blank" rel="noopener">链接</a></li></ul><h1 id="Selected-Publications"><a href="#Selected-Publications" class="headerlink" title="Selected Publications"></a>Selected Publications</h1><ol><li><strong>Hongfa Ding</strong>, Youliang Tian*, Changgen Peng*, Youshan Zhang, Shuwen Xiang. Inference attacks on genomic privacy with an improved HMM and an RCNN model for unrelated individuals. Information Sciences, 2020, 512: 207-218. DOI: 10.1016/j.ins.2019.09.036</li><li><strong>丁红发</strong>,彭长根,田有亮,向淑文. 基于演化博弈的隐私风险自适应访问控制模型. 通信学报, 2019, 40(12): 9-20. <a href="http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2019240#1" target="_blank" rel="noopener">pdf</a></li><li><strong>Hongfa Ding</strong>, Changgen Peng*, Youliang Tian, Shuwen Xiang. A risk adaptive access control model based on Markov for big data in the cloud, International Journal of High Performance Computing and Networking, 2019, 13(4):464-475.DOI:10.1504/IJHPCN.2019.099269</li><li><strong>Hongfa Ding</strong>, Changgen Peng*, Youliang Tian, Shuwen Xiang. A Game Theoretical Analysis of Risk Adaptive Access Control for Privacy Preserving, in Proc. of 2019 International Conference on Networking and Network Applications (NaNA), 2019, Daegu, Korea. DOI: 10.1109/NaNA.2019.00052</li><li>Xing Ding, Changgen Peng*, <strong>Hongfa Ding</strong>, Maoni Wang, Hui Yang, Qinyong Yu. User Identity Authentication and Identification Based on Multi-Factor Behavior Features. GLOBECOM Workshops 2019: 1-6. DOI: 10.1109/GCWkshps45667.2019.9024581</li><li>彭长根,<strong>丁红发</strong>,朱义杰,田有亮,符祖峰.隐私保护的信息熵模型及其度量方法.软件学报,2016,27(08):1891-1903. <a href="http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5096&journal_id=jos" target="_blank" rel="noopener">pdf</a></li></ol><h1 id="Projects"><a href="#Projects" class="headerlink" title="Projects"></a>Projects</h1><p>Here are several under going projects of our research team, and you are welcome to contact me.</p><ol><li>Privacy quantification of networks</li><li>Privacy inference attack of graph</li><li>Privacy preserving graph mining</li><li>Anonymization of graph</li></ol>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Hongfa is an Assistant Professor at Guizhou University of Finance and Economics. Concurrently, he is working with Prof. Changgen Peng as 
+        &lt;h1 id=&quot;Bio&quot;&gt;&lt;a href=&quot;#Bio&quot; class=&quot;headerlink&quot; title=&quot;Bio&quot;&gt;&lt;/a&gt;Bio&lt;/h1&gt;&lt;p&gt;Hongfa is an assistant professor at Guizhou University of Finance 
       
     
     </summary>
@@ -39,24 +39,36 @@
   </entry>
   
   <entry>
-    <title>leatest-information</title>
-    <link href="gufe-hfding.github.io/2020/04/02/leatest-information/"/>
-    <id>gufe-hfding.github.io/2020/04/02/leatest-information/</id>
-    <published>2020-04-02T01:58:52.000Z</published>
-    <updated>2020-04-04T06:30:00.067Z</updated>
+    <title>教师的修炼进阶课程</title>
+    <link href="gufe-hfding.github.io/2018/04/22/2018-04-22-crouses-for-teacher-improvement/"/>
+    <id>gufe-hfding.github.io/2018/04/22/2018-04-22-crouses-for-teacher-improvement/</id>
+    <published>2018-04-22T00:00:00.000Z</published>
+    <updated>2018-04-22T20:49:51.785Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Bio"><a href="#Bio" class="headerlink" title="Bio"></a>Bio</h1><p>Hongfa is an Assistant Professor at Guizhou University of Finance and Economics. Concurrently, he is working with Prof. Changgen Peng as a postdoc fellow at State Key Laboratory of Public Big Data, Guiyang. His research interests include cryptography and privacy in mechine learning and networks.</p><h1 id="News"><a href="#News" class="headerlink" title="News"></a>News</h1><ul><li>Apr. 2020. 欢迎报考、调剂贵州财经大学计算机科学与技术硕士研究生。</li><li>Jan. 2020. Our paper entitled “隐私保护的信息熵模型及其度量方法” is selected as one of high-impact papers of <em>Journal of Software</em>, 2018. <a href="http://www.jos.org.cn/jos/ch/reader/view_news.aspx?id=20200106114350001" target="_blank" rel="noopener">链接</a></li></ul><h1 id="Selected-Publications"><a href="#Selected-Publications" class="headerlink" title="Selected Publications"></a>Selected Publications</h1><ol><li><strong>Hongfa Ding</strong>, Youliang Tian*, Changgen Peng*, Youshan Zhang, Shuwen Xiang. Inference attacks on genomic privacy with an improved HMM and an RCNN model for unrelated individuals. Information Sciences, 2020, 512: 207-218. DOI: 10.1016/j.ins.2019.09.036</li><li><strong>丁红发</strong>,彭长根,田有亮,向淑文. 基于演化博弈的隐私风险自适应访问控制模型. 通信学报, 2019, 40(12): 9-20. <a href="http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2019240#1" target="_blank" rel="noopener">pdf</a></li><li><strong>Hongfa Ding</strong>, Changgen Peng*, Youliang Tian, Shuwen Xiang. A risk adaptive access control model based on Markov for big data in the cloud, International Journal of High Performance Computing and Networking, 2019, 13(4):464-475.DOI:10.1504/IJHPCN.2019.099269</li><li><strong>Hongfa Ding</strong>, Changgen Peng*, Youliang Tian, Shuwen Xiang. A Game Theoretical Analysis of Risk Adaptive Access Control for Privacy Preserving, in Proc. of 2019 International Conference on Networking and Network Applications (NaNA), 2019, Daegu, Korea. DOI: 10.1109/NaNA.2019.00052</li><li>Xing Ding, Changgen Peng*, <strong>Hongfa Ding</strong>, Maoni Wang, Hui Yang, Qinyong Yu. User Identity Authentication and Identification Based on Multi-Factor Behavior Features. GLOBECOM Workshops 2019: 1-6. DOI: 10.1109/GCWkshps45667.2019.9024581</li><li>彭长根,<strong>丁红发</strong>,朱义杰,田有亮,符祖峰.隐私保护的信息熵模型及其度量方法.软件学报,2016,27(08):1891-1903. <a href="http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5096&journal_id=jos" target="_blank" rel="noopener">pdf</a></li></ol><h1 id="Projects"><a href="#Projects" class="headerlink" title="Projects"></a>Projects</h1><p>Here are several under going projects of our research team, and you are welcome to contact me.</p><ol><li>Privacy auantification of networks</li><li>Privacy inference attack of graph</li><li>Privacy preserving graph mining</li><li>Anonymization of graph</li></ol>]]></content>
+    <content type="html"><![CDATA[<table><thead><tr><th><strong>课程名称</strong></th><th><strong>主要负责人</strong></th><th><strong>主要建设单位</strong></th><th><strong>主要开课平台</strong></th></tr></thead><tbody><tr><td>翻转课堂教学法</td><td>汪琼</td><td>北京大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>游戏化教学法</td><td>尚俊杰</td><td>北京大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>教育社会学</td><td>罗燕</td><td>清华大学</td><td>学堂在线</td></tr><tr><td>e时代的大佬师——慕课教师的修炼心法</td><td>王帅国</td><td>清华大学</td><td>学堂在线</td></tr><tr><td>课堂问答的智慧与艺术</td><td>刘徽</td><td>浙江大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>多媒体技术及应用</td><td>王志强</td><td>深圳大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>大学生心理健康</td><td>杨振斌</td><td>吉林大学</td><td>智慧树</td></tr><tr><td>信息技术教学应用</td><td>黄立新</td><td>浙江师范大学</td><td>浙江省高等学校精品在线开放课程共享平台</td></tr><tr><td>现代教育技术</td><td>傅钢善</td><td>陕西师范大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>交互式电子白板教学应用</td><td>张筱兰</td><td>西北师范大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>科学的精神与方法</td><td>梁昌洪</td><td>西安电子科技大学</td><td>智慧树</td></tr><tr><td>信息检索</td><td>黄如花</td><td>武汉大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>文献管理与信息分析</td><td>罗昭锋</td><td>中国科学技术大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>心理学概论</td><td>彭凯平</td><td>清华大学</td><td>学堂在线</td></tr><tr><td>沟通心理学</td><td>裴秋宇</td><td>哈尔滨工业大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>管理沟通</td><td>赵洱岽</td><td>华北电力大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>管理沟通：思维与技能</td><td>张莉</td><td>哈尔滨工业大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>拓展英语词汇</td><td>李秀清</td><td>青岛大学</td><td>优课联盟</td></tr><tr><td>国际交流英语</td><td>周之南</td><td>哈尔滨工业大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>新科学家英语：演讲与写作</td><td>李雪</td><td>哈尔滨工业大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>翻译有“道”</td><td>冯庆华</td><td>上海外国语大学</td><td>智慧树</td></tr></tbody></table>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;Bio&quot;&gt;&lt;a href=&quot;#Bio&quot; class=&quot;headerlink&quot; title=&quot;Bio&quot;&gt;&lt;/a&gt;Bio&lt;/h1&gt;&lt;p&gt;Hongfa is an Assistant Professor at Guizhou University of Finance 
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;课程名称&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;主要负责人&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;主要建设单位&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;主要开课平台&lt;/str
       
     
     </summary>
     
     
+      <category term="Teaching work" scheme="gufe-hfding.github.io/categories/Teaching-work/"/>
+    
+    
+      <category term="Crouse" scheme="gufe-hfding.github.io/tags/Crouse/"/>
+    
+      <category term="Personal improvement" scheme="gufe-hfding.github.io/tags/Personal-improvement/"/>
     
   </entry>
   
@@ -89,40 +101,6 @@
     
     
       <category term="Personal improvement" scheme="gufe-hfding.github.io/tags/Personal-improvement/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>教师的修炼进阶课程</title>
-    <link href="gufe-hfding.github.io/2018/04/22/2018-04-22-crouses-for-teacher-improvement/"/>
-    <id>gufe-hfding.github.io/2018/04/22/2018-04-22-crouses-for-teacher-improvement/</id>
-    <published>2018-04-22T00:00:00.000Z</published>
-    <updated>2018-04-22T20:49:51.785Z</updated>
-    
-    <content type="html"><![CDATA[<table><thead><tr><th><strong>课程名称</strong></th><th><strong>主要负责人</strong></th><th><strong>主要建设单位</strong></th><th><strong>主要开课平台</strong></th></tr></thead><tbody><tr><td>翻转课堂教学法</td><td>汪琼</td><td>北京大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>游戏化教学法</td><td>尚俊杰</td><td>北京大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>教育社会学</td><td>罗燕</td><td>清华大学</td><td>学堂在线</td></tr><tr><td>e时代的大佬师——慕课教师的修炼心法</td><td>王帅国</td><td>清华大学</td><td>学堂在线</td></tr><tr><td>课堂问答的智慧与艺术</td><td>刘徽</td><td>浙江大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>多媒体技术及应用</td><td>王志强</td><td>深圳大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>大学生心理健康</td><td>杨振斌</td><td>吉林大学</td><td>智慧树</td></tr><tr><td>信息技术教学应用</td><td>黄立新</td><td>浙江师范大学</td><td>浙江省高等学校精品在线开放课程共享平台</td></tr><tr><td>现代教育技术</td><td>傅钢善</td><td>陕西师范大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>交互式电子白板教学应用</td><td>张筱兰</td><td>西北师范大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>科学的精神与方法</td><td>梁昌洪</td><td>西安电子科技大学</td><td>智慧树</td></tr><tr><td>信息检索</td><td>黄如花</td><td>武汉大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>文献管理与信息分析</td><td>罗昭锋</td><td>中国科学技术大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>心理学概论</td><td>彭凯平</td><td>清华大学</td><td>学堂在线</td></tr><tr><td>沟通心理学</td><td>裴秋宇</td><td>哈尔滨工业大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>管理沟通</td><td>赵洱岽</td><td>华北电力大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>管理沟通：思维与技能</td><td>张莉</td><td>哈尔滨工业大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>拓展英语词汇</td><td>李秀清</td><td>青岛大学</td><td>优课联盟</td></tr><tr><td>国际交流英语</td><td>周之南</td><td>哈尔滨工业大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>新科学家英语：演讲与写作</td><td>李雪</td><td>哈尔滨工业大学</td><td>爱课程（中国大学MOOC）</td></tr><tr><td>翻译有“道”</td><td>冯庆华</td><td>上海外国语大学</td><td>智慧树</td></tr></tbody></table>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;strong&gt;课程名称&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;主要负责人&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;主要建设单位&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;主要开课平台&lt;/str
-      
-    
-    </summary>
-    
-    
-      <category term="Teaching work" scheme="gufe-hfding.github.io/categories/Teaching-work/"/>
-    
-    
-      <category term="Personal improvement" scheme="gufe-hfding.github.io/tags/Personal-improvement/"/>
-    
-      <category term="Crouse" scheme="gufe-hfding.github.io/tags/Crouse/"/>
     
   </entry>
   
@@ -539,11 +517,11 @@
       <category term="Daily work" scheme="gufe-hfding.github.io/categories/Academic/Daily-work/"/>
     
     
+      <category term="privacy protection" scheme="gufe-hfding.github.io/tags/privacy-protection/"/>
+    
       <category term="undergraduate" scheme="gufe-hfding.github.io/tags/undergraduate/"/>
     
       <category term="Data masking" scheme="gufe-hfding.github.io/tags/Data-masking/"/>
-    
-      <category term="privacy protection" scheme="gufe-hfding.github.io/tags/privacy-protection/"/>
     
   </entry>
   
@@ -569,11 +547,42 @@
       <category term="Academic" scheme="gufe-hfding.github.io/categories/Academic/"/>
     
     
+      <category term="App" scheme="gufe-hfding.github.io/tags/App/"/>
+    
       <category term="Mobile" scheme="gufe-hfding.github.io/tags/Mobile/"/>
     
       <category term="JavaScript" scheme="gufe-hfding.github.io/tags/JavaScript/"/>
     
-      <category term="App" scheme="gufe-hfding.github.io/tags/App/"/>
+  </entry>
+  
+  <entry>
+    <title>网盘保险箱的目标与设计</title>
+    <link href="gufe-hfding.github.io/2017/12/04/2017-12-04-goals-and-design-of-security-box-for-network-disk/"/>
+    <id>gufe-hfding.github.io/2017/12/04/2017-12-04-goals-and-design-of-security-box-for-network-disk/</id>
+    <published>2017-12-04T00:00:00.000Z</published>
+    <updated>2018-04-08T02:37:27.748Z</updated>
+    
+    <content type="html"><![CDATA[<p>国内的网盘企业经过洗牌，已经只剩巨头，同时为了削减数据存储的成本以及其他原因，网盘企业似乎不太愿意使用文件加密和端到端的传输加密，这对个人数据安全和个人隐私形成了巨大挑战。一旦数据泄露，将会造成巨大的社会影响和经济风险。</p><p>为了解决此问题，作者结合自己经历，应用自己的专业，设计面向网盘应用的数据安全保险箱。</p><p>在设计过程中，主要存在若干问题：</p><ul><li><p>如何解决网盘的认证问题；</p></li><li><p>如何应对密钥管理和生成问题；</p></li><li><p>如何解决大文件加解密效率问题；</p></li><li><p>如何解决透明加密问题；</p></li><li><p>如何解决边界问题；</p><p>​</p></li></ul><h2 id="架构"><a href="#架构" class="headerlink" title="架构"></a>架构</h2><p><img src="/img/network-disk-structure.jpg" alt=""></p><h2 id="认证登录"><a href="#认证登录" class="headerlink" title="认证登录"></a>认证登录</h2><p>应用网盘提供的开放接口完成认证登录功能。百度、360等都提供了相应的接口。所用的用户名username和口令password由用户在使用网盘服务时指定。</p><h2 id="密钥管理-生成-更新"><a href="#密钥管理-生成-更新" class="headerlink" title="密钥管理/生成/更新"></a>密钥管理/生成/更新</h2><p>密钥分为二级密钥，分别为主密钥masterkey和文件密钥filekey。每个用户有个主密钥，每个文件对应一个文件密钥。</p><ul><li>主密钥系统不存储，由用户记忆；</li><li>文件密钥与具体文件相关，同时两个相同文件的文件密钥应当不同，特别不同用户的相同文件的文件密钥应当不同。这样，即使两个用户采用相同的加密算法，密文文件也会不一样。</li><li>文件密钥应当是密文存储在网盘上。文件密钥的加密是由主密钥进行的。</li></ul><p>为了更加高效和安全的使用主密钥和文件密钥，可以由一些更好的做法：</p><p><strong>主密钥：</strong></p><blockquote><p>主密钥应当提醒用户过一段时间更新，或者设置多个主密钥。实际使用的主密钥可以由用户可记忆的简单字符串生成。当更新主密钥时，文件密钥不会更新（用户可也可选更新，极耗时。为了避免耗时，可采用附加旧的主密钥的文件密钥加密方式）；用户可以设定多个主密钥，每个主密钥管理加密的文件范围不同。</p></blockquote><p><strong>文件密钥</strong></p><blockquote><p>文件密钥应当是有关文件、主密钥的函数。可以不会有随机参数，也避免了不同用户的相同文件产生的文件密钥相同。</p></blockquote><p>初步设计：</p><p>$ msterkey = somestring $ 或 $ masterkey = hash(somestring) $</p><p>$$ filekey=hash(hash(file)||masterkey) $$</p><p>$$ filekey_{stored}= Encrypted_{masterkey}(filekey) $$</p><p>$$ file_{stored}=Encrypted_{filekey}(file) $$</p><p>当更新主密钥时，主密钥按照上述方法更新为newmasterkey；文件密钥和存储在网盘上的密文文件不更新，仅更新存在网盘上的存储的文件密钥密文。新的文件密文如下</p><p>$$ filekey_{stored}^{refresh}= Encrypted_{newmasterkey}(Decrypted_{masterkey}(filekey_{stored})) $$</p><p>应用新的主密钥解密密文文件。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;国内的网盘企业经过洗牌，已经只剩巨头，同时为了削减数据存储的成本以及其他原因，网盘企业似乎不太愿意使用文件加密和端到端的传输加密，这对个人数据安全和个人隐私形成了巨大挑战。一旦数据泄露，将会造成巨大的社会影响和经济风险。&lt;/p&gt;
+&lt;p&gt;为了解决此问题，作者结合自己经历，应用
+      
+    
+    </summary>
+    
+    
+      <category term="Academic" scheme="gufe-hfding.github.io/categories/Academic/"/>
+    
+    
+      <category term="Cryptography" scheme="gufe-hfding.github.io/tags/Cryptography/"/>
+    
+      <category term="Technology" scheme="gufe-hfding.github.io/tags/Technology/"/>
+    
+      <category term="network disk" scheme="gufe-hfding.github.io/tags/network-disk/"/>
     
   </entry>
   
