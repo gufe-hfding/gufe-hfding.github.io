@@ -1,0 +1,1886 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hongfa Ding</title>
+    <url>/2010/03/15/2010-03-15-full-information-of-hongfa/</url>
+    <content><![CDATA[<p>Ding Hongfa is a Ph.D. student majored in Applied Mathematics, at Guizhou University, under the superviser of Prof. Peng Changgen and Prof. Xiang Shuwen. And also, he is a lecturer at the college of Information, Guizhou University of Finance and Economics. He interests in the fields of data security and privacy protection, especially Access control, privacy metric, privacy risk assessment and cryptographical algorithms.</p>
+<p>丁红发，贵州大学应用数学博士研究生(导师为向淑文教授、彭长根教授)，贵州财经大学讲师，在贵州省公共大数据重点实验室、贵州大学密码学与数据安全研究所从事大数据安全与隐私保护研究。目前已主持省部级科研项目2项，主持市厅级项目5项，参与国家自然科学基金等科研项目20余项，发表科研论文8篇，撰写研究报告3篇，申请发明专利8项(其中1项已授权)，实用新型专利1项(已授权)，获贵州省科技进步三等奖1项。</p>
+<p>Here is his resume.</p>
+<ul>
+<li><p><a href="http://gufe-hfding.github.io/cv/cv_en.pdf">CV in English</a></p>
+</li>
+<li><p><a href="http://gufe-hfding.github.io/cv/cv_zh.pdf">中文简历</a></p>
+</li>
+</ul>
+<h2 id="Academic-Experience"><a href="#Academic-Experience" class="headerlink" title="Academic Experience"></a>Academic Experience</h2><ul>
+<li><p>July, 2013 - now，Lecturer at College of Information, Guizhou University of Finance and Economics   </p>
+</li>
+<li><blockquote>
+<p>2013年7月至今，贵州财经大学信息学院讲师</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="Educations"><a href="#Educations" class="headerlink" title="Educations"></a>Educations</h2><ul>
+<li><p>Sept. 2015 - now, PhD student at Guizhou University in the major of Applied Mathematics, Supervisors: Prof. Shuwen Xiang  and Prof. Changgen Peng</p>
+</li>
+<li><blockquote>
+<p>2015年9月至今, 贵州大学应用数学专业博士生，导师：向淑文教授、彭长根教授</p>
+</blockquote>
+</li>
+<li><p>Sept. 2010 - July. 2013, Master at Guizhou University in the major of Computer Software and Theory, Supervisor: Prof. Changgen Peng</p>
+</li>
+<li><blockquote>
+<p>2010年9月至2013年8月，贵州大学计算机软件与理论专业硕士，导师：彭长根教授</p>
+</blockquote>
+</li>
+<li><p>Sept. 2006 - Aug. 2010, Bachelor at Qiannan Normal College of Nationalities in the major of Information and Computing Science</p>
+</li>
+<li><blockquote>
+<p>2006年9月至2010年8月，黔南民族师范学院信息与计算科学专业学士</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h2><p>All my academic publications, there are 10 journal papers, 9 patents, and 1 master thesis. </p>
+<h3 id="Journal-Paper"><a href="#Journal-Paper" class="headerlink" title="Journal Paper"></a>Journal Paper</h3><ol>
+<li><strong>Hongfa Ding</strong>, Changgen Peng*, Youliang Tian, and Shuwen Xiang. A risk adaptive access control model based on Markov for big data in the cloud, International Journal of High Performance Computing and Networking (to appear).  [<a href="./Risk-Access-Control/ding2018risk.pdf">pdf</a>].[<a href="./Risk-Access-Control/ding2018risk.bib">bibtex</a>].[<a href="http://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijhpcn" target="_blank" rel="noopener">URL</a>]</li>
+<li><strong>丁红发</strong>.一支扎根于贵州的大数据安全与隐私保护研究团队.大数据时代,2018(01):74-76. [<a href="./2018PrivacyTeam/ding2018privacy.pdf">pdf</a>].[<a href="./2018PrivacyTeam/ding2018risk.bib">bibtex</a>].[<a href="http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=DSJD201801013&dbname=CJFDTEMP" target="_blank" rel="noopener">URL</a>]</li>
+<li>冉冉,李峰,王欣柳,杨立春,<strong>丁红发</strong>.一种面向隐私保护的电力大数据脱敏方案及应用研究.网络空间安全,2018(01):105-113. [<a href="./2018DataMasking/ran2018.pdf">pdf</a>].[<a href="./2018DataMasking/ran2018.bib">bibtex</a>].[<a href="http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=AQJS201801022&dbname=CJFDPREP" target="_blank" rel="noopener">URL</a>]</li>
+<li>王亚伟,彭长根<em>,*</em>丁红发**,周凯.基于标识符的Android客户端身份认证方案.网络与信息安全学报,2017,3(04):32-38. [<a href="./2017Android/wang2017.pdf">pdf</a>].[<a href="./2017Android/wang2017.bib">bibtex</a>]</li>
+<li>彭长根,田有亮,刘海,<strong>丁红发</strong>.密码学与博弈论的交叉研究综述.密码学报,2017,4(01):1-15.[<a href="./2017Rational-Cryptography/peng2017survey.pdf">pdf</a>].[<a href="./2017Rational-Cryptography/peng2017survey.bib">bibtex</a>]</li>
+<li>彭长根,<strong>丁红发</strong>,朱义杰,田有亮,符祖峰.隐私保护的信息熵模型及其度量方法.软件学报,2016,27(08):1891-1903.[<a href="./2016Privacy-Metric/peng2016information.pdf">pdf</a>].[<a href="./2016Privacy-Metric/peng2016information.bib">bibtex</a>]</li>
+<li><strong>丁红发</strong>,江兴,孟秋晴*.适用于高校电视台的高效媒资管理方案.电视技术,2015,39(14):78-81.[<a href="./2015TV-Center/ding2015.pdf">pdf</a>].[<a href="./2015TV-Center/ding2015.bib">bibtex</a>]</li>
+<li>安冯竞,<strong>丁红发</strong>,程小平.基于脊骨线特征的指纹图像质量评估方法.西南师范大学学报(自然科学版),2013,38(09):106-109.[<a href="./2013Fingerprint/an2013approach.pdf">pdf</a>].[<a href="./2013Fingerprint/an2013approach.bib">bibtex</a>]</li>
+<li>杨震,彭长根<em>,*</em>丁红发**.一种无序匿名的RFID群证明方案.计算机工程,2012,38(20):85-88. [<a href="./2012Disordered-RFID/yang2012disordered.pdf">pdf</a>].[<a href="./2012Disordered-RFID/yang2012disordered.bib">bibtex</a>]</li>
+<li><strong>丁红发</strong>,彭长根*,杨震,张晓培.二进制Edwards曲线上的点压缩算法.贵州大学学报(自然科学版),2012,29(03):55-58. [<a href="./2012Point-Compression/ding2012point.pdf">pdf</a>].[<a href="./2012Point-Compression/ding2012point.bib">bibtex</a>]</li>
+</ol>
+<h3 id="Patents"><a href="#Patents" class="headerlink" title="Patents"></a>Patents</h3><ol>
+<li>刘波涛,彭长根,吴睿雪,李雪松,<strong>丁红发</strong>,谢明明. 加解密一致的SP网络结构轻量级LBT分组密码实现方法. CN201711093878.4. 2018-02-16. [<a href="./Patents/2018-patent-01.pdf">pdf</a>]</li>
+<li>李雪松,<strong>丁红发</strong>. 一种基于SM4的认证加密算法和解密算法. CN201710470765.5,2017-11-10. [<a href="./Patents/2017-patent-02.pdf">pdf</a>]</li>
+<li>彭戴予晗,张爽,李震,<strong>丁红发</strong>. 离线同步的二维码防伪方法、防伪验证方法及防伪装置. CN201710564274.7. 2017-11-03. [<a href="./Patents/2017-patent-01.pdf">pdf</a>]</li>
+<li>彭长根,李雪松,田有亮,刘少彬,<strong>丁红发</strong>. 利用指纹认证加密U盘的方法. CN201610193345.2, 2016-03-30. [<a href="./Patents/2016-patent-03.pdf">pdf</a>]</li>
+<li>彭长根,马海峰,田有亮,<strong>丁红发</strong>. 一种密文的加密解密方法. CN201610177523.2,2016-03-25. [<a href="./Patents/2016-patent-02.pdf">pdf</a>]</li>
+<li>彭长根,李雪松,田有亮,刘少彬,<strong>丁红发</strong>.  一种U盘指纹认证加密方法. CN201610140978.7,2016-03-14. [<a href="./Patents/2016-patent-01.pdf">pdf</a>]</li>
+<li><strong>丁红发</strong>,彭长根, 朱义杰. 基于位置景区电子讲解服务的系统. CN201520593708.2, 2015-8-10. CN 205029878 U, 2016-02-10. [<a href="./Patents/2015-patent-02.pdf">pdf</a>]</li>
+<li><strong>丁红发</strong>,彭长根, 朱义杰. 基于位置景区电子讲解服务的系统的设计方法及系统. CN201510482610.4, 2015-8-10. [<a href="./Patents/2015-patent-01.pdf">pdf</a>]</li>
+<li>彭长根, 杨震, <strong>丁红发</strong>. 面向移动终端的动态多属性多级别的身份认证方法. CN201310026660.2, 2013-01-24. CN103107888B, 2015-11-18.[<a href="./Patents/2013-patent-01.pdf">pdf</a>]</li>
+</ol>
+<h3 id="Thesis"><a href="#Thesis" class="headerlink" title="Thesis"></a>Thesis</h3><ol>
+<li><strong>丁红发</strong>.几类特殊有限域上Edwards曲线算法研究.贵州大学,2013. [<a href="./2010Master-Thesis/ding2013several.pdf">pdf</a>].[<a href="2010Master-Thesis/ding2013several.bib">bibtex</a>]</li>
+</ol>
+<h2 id="Funding"><a href="#Funding" class="headerlink" title="Funding"></a>Funding</h2><p>There are some main ongoing projects under my leading, and a full list of research projects that I attended is <a href="./full-list.md">here</a>.</p>
+<p>累计主持省部级等各类科研项目8项，参加国家自然基金等各类科研项目20余项；目前，主持在研项目6项，其中省级项目2项，厅级项目4项。</p>
+<p>有关我主持或参加的所有项目，参见<a href="./full-list.md">这里</a>。</p>
+<ol>
+<li>贵州省科技基金计划项目：面向大数据开放共享与交易的隐私泄露风险评估模型及风险控制技术研究 (黔科合基础[2016]1023,2017.1-2019.12)   [<a href="./2016省科技项目.md">项目详情</a>]</li>
+<li>贵州省哲学社会科学规划课题：大数据开放共享中的的数据安全及隐私管理机制研究 (16GZQN06, 2016.9-2018.9)  [<a href="./2016省社科项目.md">项目详情</a>]</li>
+<li>贵州省教育厅青年科技人才成长项目：大数据开放共享与交易中的隐私泄露风险评估模型及风险控制方法研究(黔教合KY字[2016]169,2016.11-2019.10)  [<a href="./2016教育厅项目.md">项目详情</a>]</li>
+<li>贵州省教育厅高校人文社会科学研究项目: 贵州省政府数据开放与共享问题与对策研究 (2015DXS03, 2015.11 - 2017.11)   [<a href="./2015教育厅项目.md">项目详情</a>]</li>
+<li>贵州省公共大数据重点实验室开放基金：数据开放共享中的隐私泄露风险评估模型研究 (2017BDKFJJ023, 2017.7-2018.7)   [<a href="">项目详情</a>]</li>
+<li>贵州大学研究生创新基金项目：大数据环境下的风险自适应隐私保护访问控制模型及其应用研究 (研理工2017068, 2017.01-2017.12)   [<a href="">项目详情</a>]</li>
+</ol>
+<p>##Activities</p>
+<h3 id="Members"><a href="#Members" class="headerlink" title="Members"></a>Members</h3><ul>
+<li><p>中国密码学会会员</p>
+</li>
+<li><p>中国计算机学会会员</p>
+</li>
+<li><p>ACM会员</p>
+</li>
+<li><p>贵州省计算机学会会员</p>
+</li>
+<li><p>贵州省科协“科普云”建设调研组成员</p>
+</li>
+<li><p>贵州省电子商务协会咨询服务组成员</p>
+</li>
+<li><p>贵阳市“党建红云”二期建设咨询组成员</p>
+<h3 id="Services"><a href="#Services" class="headerlink" title="Services"></a>Services</h3></li>
+<li><p>参与组织“2017(第二届)中国隐私保护学术会议”，贵阳，2017.8.4-8.6</p>
+</li>
+<li><p>参与组织“首届贵安公共大数据高峰论坛”，贵安，2017.7.15</p>
+</li>
+<li><p>参与组织贵州省科协第41期学术讲坛——“大数据安全与隐私保护” ，贵阳，2016.8.4</p>
+</li>
+<li><p>参与组织天元基金“密码学与编码学”青年学者培训班，贵阳，2016.7.31-2016.8.10</p>
+</li>
+<li><p>参与组织国家863课题项目总体组研讨会，贵阳，2016.5.23</p>
+</li>
+<li><p>参与组织贵州省科学技术协会第39期学术讲坛——“大数据”，贵阳，2015.11.22</p>
+</li>
+<li><p>参与组织第一届中国数据安全理论与应用学术会议,贵阳，2015.7.24—2015.7.26</p>
+</li>
+<li><p>参与组织贵州省大数据技术研究与应用研讨会，贵阳，2014.10.25</p>
+</li>
+<li><p>参与组织第七届中国计算机网络与信息安全学术会议（CCNIS 2014），贵阳，2014.7.27—2014.729</p>
+<h3 id="Participates"><a href="#Participates" class="headerlink" title="Participates"></a>Participates</h3></li>
+<li><p>参加2016首届中国隐私保护学术会议，北京，2016.11.7.</p>
+</li>
+<li><p>参加2016中国计算机大会，太原，2016.10.20-2016.10.22.</p>
+</li>
+<li><p>参加2016中国密码学年会，杭州，2016.9.23-2016.9.24</p>
+</li>
+<li><p>参加2016中国计算机理论年会，贵阳，2016.8.19-2016.8.21</p>
+</li>
+<li><p>参加第二届中国密码学与数据安全学术会议，桂林，2016.7.27-2016.7.30</p>
+</li>
+<li><p>参加龙星计划“隐私保护理论与实践”培训，上海，2016.7.11-2016.7.16</p>
+</li>
+<li><p>参加贵州省标准化专业技术委员会培训，贵阳，2016.6.20</p>
+</li>
+<li><p>参加2016中国大数据产业峰会暨中国电子商务创新发展峰会，贵阳，2016.5.26-2016.5.29</p>
+</li>
+<li><p>参加中国密码学会2015年会（ChinaCrypt2015），上海，2015.10.23-2015.10.24</p>
+</li>
+<li><p>参加2015贵州省计算机学会年会，都匀，2015.10.16-2016.10.17</p>
+</li>
+</ul>
+<h2 id="Honors"><a href="#Honors" class="headerlink" title="Honors"></a>Honors</h2><ul>
+<li>获2016年贵州省科技进步三等奖(December, 2016)</li>
+<li>获2016年贵州大学第19期硕博论坛优秀论文奖(June, 2016)；</li>
+<li>获2012年贵州大学计算机学院第十届学术报告优秀报告奖(june,2012).</li>
+</ul>
+<h2 id="Teaching"><a href="#Teaching" class="headerlink" title="Teaching"></a>Teaching</h2><p>I am a teaching instructor for the following courses at Guizhou University, and at Guizhou University of Finance and Economics :</p>
+<ul>
+<li>Fall, 2016 Big Data Technology and Its Application, Undergraduates (<a href="http://gufe-hfding.github.io/teaching/course-bigdata_techonologies_and_its_applications/">course page</a> and <a href="https://www.trustie.net/courses/929" target="_blank" rel="noopener">online course</a>)</li>
+<li>Spring, 2016 Cryptography and Secure Computation, Undergraduates (<a href="http://gufe-hfding.github.io/teaching/course-cryptography-security-compuation/">course page</a>)</li>
+<li>Fall, 2015 Information Theory and Coding (Teaching Assistant), Undergraduates</li>
+<li>Fall, 2015 Database, Graduates</li>
+<li>Spring,2015 Introduction to Big Data Technology, Undergraduates</li>
+<li>Fall, 2014 Information Security Technology, Undergraduates</li>
+<li>Spring, 2014 Technology and Management of Network, Undergraduates</li>
+<li>Fall, 2013 Information Security Technology (Teaching Assistant), Undergraduates</li>
+</ul>
+<h2 id="Other-Tools"><a href="#Other-Tools" class="headerlink" title="Other Tools"></a>Other Tools</h2><p><a href="./tools/README.md">Here</a> is some useful tool for academic or everyday use.</p>
+]]></content>
+      <categories>
+        <category>academic</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>The full list of my academic activities</title>
+    <url>/2010/03/15/2010-03-15-full-list-of-activities/</url>
+    <content><![CDATA[<h3 id="Members"><a href="#Members" class="headerlink" title="Members"></a>Members</h3><ul>
+<li>中国密码学会会员</li>
+<li>中国计算机学会会员</li>
+<li>ACM会员</li>
+<li>贵州省计算机学会会员</li>
+<li>贵州省科协“科普云”建设调研组成员</li>
+<li>贵州省电子商务协会咨询服务组成员</li>
+<li>贵阳市“党建红云”二期建设咨询组成员</li>
+</ul>
+<h3 id="Services"><a href="#Services" class="headerlink" title="Services"></a>Services</h3><ul>
+<li>参与组织“2017(第二届)中国隐私保护学术会议”，贵阳，2017.8.4-8.6</li>
+<li>参与组织“首届贵安公共大数据高峰论坛”，贵安，2017.7.15</li>
+<li>参与组织贵州省科协第41期学术讲坛——“大数据安全与隐私保护” ，贵阳，2016.8.4</li>
+<li>参与组织天元基金“密码学与编码学”青年学者培训班，贵阳，2016.7.31-2016.8.10</li>
+<li>参与组织国家863课题项目总体组研讨会，贵阳，2016.5.23</li>
+<li>参与组织贵州省科学技术协会第39期学术讲坛——“大数据”，贵阳，2015.11.22</li>
+<li>参与组织第一届中国数据安全理论与应用学术会议,贵阳，2015.7.24—2015.7.26</li>
+<li>参与组织贵州省大数据技术研究与应用研讨会，贵阳，2014.10.25</li>
+<li>参与组织第七届中国计算机网络与信息安全学术会议（CCNIS 2014），贵阳，2014.7.27—2014.729</li>
+</ul>
+<h3 id="Participates"><a href="#Participates" class="headerlink" title="Participates"></a>Participates</h3><ul>
+<li>参加2016首届中国隐私保护学术会议，北京，2016.11.7.</li>
+<li>参加2016中国计算机大会，太原，2016.10.20-2016.10.22.</li>
+<li>参加2016中国密码学年会，杭州，2016.9.23-2016.9.24</li>
+<li>参加2016中国计算机理论年会，贵阳，2016.8.19-2016.8.21</li>
+<li>参加第二届中国密码学与数据安全学术会议，桂林，2016.7.27-2016.7.30</li>
+<li>参加龙星计划“隐私保护理论与实践”培训，上海，2016.7.11-2016.7.16</li>
+<li>参加贵州省标准化专业技术委员会培训，贵阳，2016.6.20</li>
+<li>参加2016中国大数据产业峰会暨中国电子商务创新发展峰会，贵阳，2016.5.26-2016.5.29</li>
+<li>参加中国密码学会2015年会（ChinaCrypt2015），上海，2015.10.23-2015.10.24</li>
+<li>参加2015贵州省计算机学会年会，都匀，2015.10.16-2016.10.17</li>
+</ul>
+]]></content>
+      <categories>
+        <category>academic</category>
+      </categories>
+      <tags>
+        <tag>academic orgniztion</tag>
+        <tag>conference</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2016-student-fund</title>
+    <url>/2018/04/08/2016-student-fund/</url>
+    <content><![CDATA[<p>+++<br>date = 2016-04-20<br>lastmod = 2017-09-03<br>draft = false<br>tags = [“student”,”fundation”]<br>categories=[‘academic’]<br>title = “2016年度贵州财经大学在校学生科研项目选题候选题目”<br>math = true<br>summary = “欢迎各年级学生申请有兴趣的项目”</p>
+<p>[header]<br>+++</p>
+<h2 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h2><p>贵州财经大学《<a href="http://portal.gzife.edu.cn/eapdomain/static/component/cms/cmp_cms_pim_show/showInfoDetail.jsp?infoId=86800&config_id=18106" target="_blank" rel="noopener">关于2016年度贵州财经大学在校学生科研项目申报的通知</a>》已经发布，现拟定3个题目，<font color = "red"> 欢迎各年级有组织能力，有科研创新能力的同学组织团队以此三项题目之一申报上述项目</font>。在对项目内容有一定理解，并有决心做好项目，可以以团队方式撰写项目书，联系丁红发做指导老师。</p>
+<h2 id="候选题目及内容"><a href="#候选题目及内容" class="headerlink" title="候选题目及内容"></a>候选题目及内容</h2><ul>
+<li><p><strong>题目一</strong>：大数据交易及数据服务中的隐私问题研究</p>
+<ol>
+<li>梳理国内数据交易相关政策中的隐私条款</li>
+<li>梳理国内关于数据交易和数据服务的专家观点</li>
+<li>分析大数据交易及数据服务可能面临的问题</li>
+<li>对大数据及数据服务中隐私问题的对策</li>
+</ol>
+</li>
+<li><p><strong>题目二</strong>：国内大数据交易及数据服务平台对比研究</p>
+<ol>
+<li>全面梳理调研国内大数据交易平台及数据服务平台</li>
+<li>大数据交易及数据服务平台的特征分析</li>
+<li>大数据交易及数据服务平台的对比</li>
+<li>对贵州大数据交易及数据服务的建议</li>
+</ol>
+</li>
+<li><p><strong>题目三</strong>：贵州省数据开放共享的政策分析研究</p>
+<ol>
+<li>梳理贵州省数据开放共享政策</li>
+<li>梳理国内发达省份数据开放共享的政策</li>
+<li>国内大数据开放共享政策需求分析</li>
+<li>对贵州大数据开放共享政策的意见</li>
+</ol>
+</li>
+</ul>
+<h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><p>邮箱： <a href="mailto:gufe.hfding@foxmail.com">gufe.hfding@foxmail.com</a></p>
+<h2 id="时间安排"><a href="#时间安排" class="headerlink" title="时间安排"></a>时间安排</h2><ol>
+<li>2016年10月20日22:00之前写好项目申报书联系丁老师，发到丁老师邮箱，丁老师针对各项目按照题目归类优选后确定队伍，至多3队。</li>
+<li>2016年10月23日22:00之前修改第一稿</li>
+<li>2016年10月25日22:00 之前修改第二稿</li>
+<li>2016年10月27日22:00之前定稿，并发到学院</li>
+</ol>
+<h2 id="双方权利义务"><a href="#双方权利义务" class="headerlink" title="双方权利义务"></a>双方权利义务</h2><h3 id="团队责任"><a href="#团队责任" class="headerlink" title="团队责任"></a>团队责任</h3><ol>
+<li>团队全员积极筹划，按照校方要求撰写申报书，并按时提交校方；</li>
+<li>申报成功后，严格按照校方要求安排好研究进度；</li>
+<li>积极以个人或团队形式发表论文、研究报告、专利，并积极往高层次刊物会议发表。<font color = "red">若发表高层次成果，指导教师提供一定奖金</font>；</li>
+<li>队长按照校方财务要求将项目经费用以团队项目研究；</li>
+<li>虚心接受导师指导，并每周定期以书面或口头形式向导师汇报研究进度；</li>
+<li>研究素材和研究成果，在项目实施过程和结题时移交给导师；</li>
+<li>保证项目能够按时结题；</li>
+<li>可以项目成果申报院、校等各级奖励。</li>
+</ol>
+<h3 id="导师责任"><a href="#导师责任" class="headerlink" title="导师责任"></a>导师责任</h3><ol>
+<li>指导项目团队撰写申报书；</li>
+<li>督促团队展开研究、撰写研究报告、论文、专利，并定期检查，直至按时结题；</li>
+<li>若团队成员发表高层次成果，提供成果作者一定奖金（中文核心、CSSCI或EI会议论文，1000；EI期刊、SCI期刊以上1500元）；</li>
+<li>二次使用团队研究成果，尊重成果作者知识产权。</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>2017-09-28-leave-china-and-come-to-america</title>
+    <url>/2018/04/08/2017-09-28-leave-china-and-come-to-america/</url>
+    <content><![CDATA[<p>+++<br>title = “离开中国，来到美国”<br>author= “Hongfa”<br>date = 2017-09-28<br>lastmod = 2017-09-28<br>draft = true<br>categories=[“dairy”]<br>tags = [“daily life”,”america”]</p>
+<p>math = true<br>summary = “离开中国，到达美国当日情形”</p>
+<p>[header]<br>+++</p>
+<p>从北京起飞时，正在利用国航机载终端看纪录片《超级工程II-中国路》，看了一眼北京郊区的山，突然很感慨，也想到了某人，对祖国和国内的人都有了些眷恋，故土难舍吧，好久才心里平复下来。这也是自己要走的路，艰难一些，却步步前行，希望能够更加稳固一些，付出努力，得到回报。</p>
+<p>飞机正常抵达纽瓦克，一路心惊胆战，生怕自己带的可能有违禁品，一路跌跌撞撞，幸好一路有不错的人在帮助。</p>
+<p>终于顺利到达住处，接下来就该是更加充实的新生活了，利用好一年的时间做好很多事情。</p>
+<ul>
+<li>学好英语。虽然能够勉强沟通，但还是要好好提高呢，距离流畅沟通还有一段距离。</li>
+<li>搞好学问。在新环境中迅速能够成长起来。</li>
+<li>坚持健身。身体是革命本钱，回去后能成为一个不一样一点儿的自己。</li>
+</ul>
+<p>感谢父母的不干涉和支持，感谢家人的理解；感谢彭老师戴老师的无私帮助，感谢各位同门的扶持；感谢Cao博士的接收与耐心帮助；感谢留学基金委、广州留学服务中心的资助；感谢国航空乘的胸针支持，得以更换了SIM卡；感谢Newark airport的工作人员和国际友人的热心指路；感谢express bus的司机大叔；感谢学金融会计的@nulishuijiao；感谢张有山，罗凡和李松同学的帮助，也感谢租房过程中的各个小伙伴，综上得以成行，十分感谢。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Intresting topic about structure presevring cryptography</title>
+    <url>/2017/10/08/2017-10-08-intresting-topic-about-presevring-structure-cryptography/</url>
+    <content><![CDATA[<p>In the recent conferences of crypto such as Crypto, Eurocrypt and Asiacrypt, a new notion named Structure Presering  Cryptography is more and more popular.</p>
+<p>with the aim to more security and privacy preserving, it may be very useful.</p>
+<p>see more details in <a href="https://www.iacr.org/conferences/" target="_blank" rel="noopener">https://www.iacr.org/conferences/</a>.</p>
+<ul>
+<li>Crypto2017: Compact Structure-preserving Signatures with Almost Tight Security</li>
+<li>PKC2017: Improved Structure Preserving Signatures Under Standard Bilinear Assumptions</li>
+<li>ESORICS2017: More Efficient Structure-Preserving Signatures - Or: Bypassing the Type-III Lower Bounds</li>
+<li>Asiacrypt2016: Structure-Preserving Smooth Projective Hashing</li>
+<li>Asiacrypt2016: How to Obtain Fully Structure-Preserving (Automorphic) Signatures from Structure-Preserving Ones</li>
+<li>CT-RSA2016: Short Structure-Preserving Signatures</li>
+<li>CT-RSA2016: Cryptanalysis of the Structure-Preserving Signature Scheme on Equivalence Classes from Asiacrypt 2014</li>
+<li>J. Cryptology29: Constant-Size Structure-Preserving Signatures: Generic Constructions and Simple Assumptions</li>
+<li>J. Cryptology29: Structure-Preserving Signatures and Commitments to Group Elements</li>
+<li>Asiacrypt2015: Efficient Fully Structure-Preserving Signatures for Large Messages</li>
+<li>Asiacrypt2015: Type 2 Structure-Preserving Signature Schemes Revisited</li>
+<li>Asiacrypt2015: Structure-Preserving Cryptography (invited talk)</li>
+<li>Crypto2015: Structure-Preserving Signatures from Standard Assumptions, Revisited</li>
+<li>Crypto2015: Short Group Signatures via Structure-Preserving Signatures: Standard Model Security from Simple Assumptions</li>
+<li>Eurocrypt2015: Fully Structure-Preserving Signatures and Shrinking Commitments</li>
+<li>Des. Codes Cryptography77: Linearly homomorphic structure-preserving signatures and their applications</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Academic</category>
+      </categories>
+      <tags>
+        <tag>Cryptography</tag>
+        <tag>Structure Preserving cryptography</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Valuable topic about secret sharing named function secret sharing based on Distributed Point Function</title>
+    <url>/2017/10/08/2017-10-08-valuable-topic-about-secret-sharing-named-function-secret-sharing-based-on-distributed-point-function/</url>
+    <content><![CDATA[<p>This notion of <strong>Function Secret Sharing</strong> maybe extended to other topics of secret shaing, such as Socio-Rational Secret Sharing, Sharing Many Secrets, Verifiable Secret Sharing etc.. And the important referencess are as follows.</p>
+<ul>
+<li>Gilboa N., Ishai Y. (2014) Distributed Point Functions and Their Applications. In: Nguyen P.Q., Oswald E. (eds) Advances in Cryptology – EUROCRYPT 2014. EUROCRYPT 2014. Lecture Notes in Computer Science, vol 8441. Springer, Berlin, Heidelberg</li>
+<li>Boyle E., Gilboa N., Ishai Y. (2015) Function Secret Sharing. In: Oswald E., Fischlin M. (eds) Advances in Cryptology - EUROCRYPT 2015. EUROCRYPT 2015. Lecture Notes in Computer Science, vol 9057. Springer, Berlin, Heidelberg</li>
+<li>Elette Boyle, Niv Gilboa, Yuval Ishai:<br>Function Secret Sharing: Improvements and Extensions. ACM Conference on Computer and Communications Security 2016: 1292-1303</li>
+<li>Ohsawa T., Kurokawa N., Koshiba T. (2018) Function Secret Sharing Using Fourier Basis. In: Barolli L., Enokido T., Takizawa M. (eds) Advances in Network-Based Information Systems. NBiS 2017. Lecture Notes on Data Engineering and Communications Technologies, vol 7. Springer, Cham</li>
+<li>Attasena, V., Darmont, J. &amp; Harbi, N. Secret sharing for cloud data security: a survey. The VLDB Journal (2017) 26: 657. <a href="https://doi.org/10.1007/s00778-017-0470-9" target="_blank" rel="noopener">https://doi.org/10.1007/s00778-017-0470-9</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Academic</category>
+      </categories>
+      <tags>
+        <tag>Function Secret Sharing</tag>
+        <tag>Secret Sharing</tag>
+        <tag>Distributed Point Functions</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网盘保险箱的目标与设计</title>
+    <url>/2017/12/04/2017-12-04-goals-and-design-of-security-box-for-network-disk/</url>
+    <content><![CDATA[<p>国内的网盘企业经过洗牌，已经只剩巨头，同时为了削减数据存储的成本以及其他原因，网盘企业似乎不太愿意使用文件加密和端到端的传输加密，这对个人数据安全和个人隐私形成了巨大挑战。一旦数据泄露，将会造成巨大的社会影响和经济风险。</p>
+<p>为了解决此问题，作者结合自己经历，应用自己的专业，设计面向网盘应用的数据安全保险箱。</p>
+<p>在设计过程中，主要存在若干问题：</p>
+<ul>
+<li><p>如何解决网盘的认证问题；</p>
+</li>
+<li><p>如何应对密钥管理和生成问题；</p>
+</li>
+<li><p>如何解决大文件加解密效率问题；</p>
+</li>
+<li><p>如何解决透明加密问题；</p>
+</li>
+<li><p>如何解决边界问题；</p>
+<p>​</p>
+</li>
+</ul>
+<h2 id="架构"><a href="#架构" class="headerlink" title="架构"></a>架构</h2><p><img src="/img/network-disk-structure.jpg" alt=""></p>
+<h2 id="认证登录"><a href="#认证登录" class="headerlink" title="认证登录"></a>认证登录</h2><p>应用网盘提供的开放接口完成认证登录功能。百度、360等都提供了相应的接口。所用的用户名username和口令password由用户在使用网盘服务时指定。</p>
+<h2 id="密钥管理-生成-更新"><a href="#密钥管理-生成-更新" class="headerlink" title="密钥管理/生成/更新"></a>密钥管理/生成/更新</h2><p>密钥分为二级密钥，分别为主密钥masterkey和文件密钥filekey。每个用户有个主密钥，每个文件对应一个文件密钥。</p>
+<ul>
+<li>主密钥系统不存储，由用户记忆；</li>
+<li>文件密钥与具体文件相关，同时两个相同文件的文件密钥应当不同，特别不同用户的相同文件的文件密钥应当不同。这样，即使两个用户采用相同的加密算法，密文文件也会不一样。</li>
+<li>文件密钥应当是密文存储在网盘上。文件密钥的加密是由主密钥进行的。</li>
+</ul>
+<p>为了更加高效和安全的使用主密钥和文件密钥，可以由一些更好的做法：</p>
+<p><strong>主密钥：</strong></p>
+<blockquote>
+<p>主密钥应当提醒用户过一段时间更新，或者设置多个主密钥。实际使用的主密钥可以由用户可记忆的简单字符串生成。当更新主密钥时，文件密钥不会更新（用户可也可选更新，极耗时。为了避免耗时，可采用附加旧的主密钥的文件密钥加密方式）；用户可以设定多个主密钥，每个主密钥管理加密的文件范围不同。</p>
+</blockquote>
+<p><strong>文件密钥</strong></p>
+<blockquote>
+<p>文件密钥应当是有关文件、主密钥的函数。可以不会有随机参数，也避免了不同用户的相同文件产生的文件密钥相同。</p>
+</blockquote>
+<p>初步设计：</p>
+<p>$ msterkey = somestring $ 或 $ masterkey = hash(somestring) $</p>
+<p>$$ filekey=hash(hash(file)||masterkey) $$</p>
+<p>$$ filekey_{stored}= Encrypted_{masterkey}(filekey) $$</p>
+<p>$$ file_{stored}=Encrypted_{filekey}(file) $$</p>
+<p>当更新主密钥时，主密钥按照上述方法更新为newmasterkey；文件密钥和存储在网盘上的密文文件不更新，仅更新存在网盘上的存储的文件密钥密文。新的文件密文如下</p>
+<p>$$ filekey_{stored}^{refresh}= Encrypted_{newmasterkey}(Decrypted_{masterkey}(filekey_{stored})) $$</p>
+<p>应用新的主密钥解密密文文件。</p>
+]]></content>
+      <categories>
+        <category>Academic</category>
+      </categories>
+      <tags>
+        <tag>Cryptography</tag>
+        <tag>Technology</tag>
+        <tag>network disk</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于数据脱敏的本科毕业设计框架</title>
+    <url>/2017/12/10/2017-12-10-undergraduate-final-design-about-data-masking/</url>
+    <content><![CDATA[<p>让本科生全面的创新或者完全独立完成毕业设计，有些困难。可以考虑为其提出合理的框架结构设计，由本科生根据框架要求，结合自己的题目需求，按照软件工程的方法，分析需求，制定功能模块，完成代码设计，是可行的路子。</p>
+<p>针对数据脱敏，保障大量数据的隐私，可以将本科生的毕业设计融入到这种需求中，不同的学生完成不同的算法，按照算法特性，数据特征，隐私保护需求，各自完成1-2种隐私保护需求的数据脱敏，比较可行。<br>因此，提出了一种通用型的框架结构，每一个毕业设计题目只针对一种类型的数据，数据存储在相应的文件或者数据库中，学生需要从数据库中读取数据，根据数据中的隐私保护需求的1-2点，选取具有较好效果的隐私保护算法完成脱敏任务，并要求界面要友好，功能要完善，各个模块耦合性要低。<br>具体如下：</p>
+<p><img src="/img/undergraduate-data-masking.jpg" alt="脱敏要求"></p>
+]]></content>
+      <categories>
+        <category>Academic</category>
+        <category>Daily work</category>
+      </categories>
+      <tags>
+        <tag>undergraduate</tag>
+        <tag>Data masking</tag>
+        <tag>privacy protection</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Detection of whether one app is installed or not over mobile via JavaScript or JQuery</title>
+    <url>/2017/12/06/2017-12-06-detection-of-app-is-installed-via-javascript/</url>
+    <content><![CDATA[<h1 id="Introduction-for-the-requirement"><a href="#Introduction-for-the-requirement" class="headerlink" title="Introduction for the requirement"></a>Introduction for the requirement</h1><p>Recently, we have a requirement that how to detect whether a specific app is installed or not over mobile via JavaScript or JQuery, while the page do not switch to the App. For this, I record the prosessure of how to handle it.</p>
+<h1 id="Methods"><a href="#Methods" class="headerlink" title="Methods"></a>Methods</h1><h2 id="Detect-directly"><a href="#Detect-directly" class="headerlink" title="Detect directly"></a>Detect directly</h2><p>The most natural thought is detect it via a web API. Unfortunately, there is no such web API for android, ios and other mobile operation systems with the reasons of privacy and security.<br>see this issue from the following links.<br><a href="https://stackoverflow.com/questions/19910615/how-to-check-if-user-has-an-app-installed" target="_blank" rel="noopener">https://stackoverflow.com/questions/19910615/how-to-check-if-user-has-an-app-installed</a></p>
+<h2 id="Sidechannel-via-luanch-the-App"><a href="#Sidechannel-via-luanch-the-App" class="headerlink" title="Sidechannel via luanch the App"></a>Sidechannel via luanch the App</h2><p>Almost all the mobile OS support URL schemes or Universal Links(work in ios). The idea here is listen the time how long it takes to luanch the app, it will take longer time if the app is intalled, otherwise, the time is very short.</p>
+<blockquote>
+<p>Here are the steps that maybe worth you trial</p>
+</blockquote>
+<blockquote>
+<p>First there must be a scheme for the app</p>
+</blockquote>
+<blockquote>
+<p>on webpage load, add a iframe to open the scheme.(or android’s intent string). At the same time, setTimeout(0.2 second) for the things you wanna do if app is no installed.</p>
+</blockquote>
+<blockquote>
+<p>===== here is the how it works:</p>
+</blockquote>
+<blockquote>
+<ol>
+<li>if the app is installed, then it reacts to the scheme, and open itself. And the browser is not active, so it pauses there, and block the setTimeout</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="2">
+<li>if the app is not installed, then after 0.2s, the function you desire will be triggered.<br>notice that some little problems may occur, but I think it is acceptable</li>
+</ol>
+</blockquote>
+<blockquote>
+<p>posted by <a href="https://stackoverflow.com/users/2949814/sunderls" target="_blank" rel="noopener">sunderls</a></p>
+</blockquote>
+<p>and the javascript code is always like this.</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">setTimeout(function () &#123; window.location &#x3D; &quot;https:&#x2F;&#x2F;itunes.apple.com&#x2F;appdir&quot;; &#125;, 25);</span><br><span class="line">window.location &#x3D; &quot;appname:&#x2F;&#x2F;&quot;;</span><br></pre></td></tr></table></figure>
+<p>or</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">var now &#x3D; new Date().valueOf();</span><br><span class="line">setTimeout(function () &#123;</span><br><span class="line">    if (new Date().valueOf() - now &gt; 100) return;</span><br><span class="line">    window.location &#x3D; &quot;https:&#x2F;&#x2F;itunes.apple.com&#x2F;appdir&quot;;</span><br><span class="line">&#125;, 25);</span><br><span class="line">window.location &#x3D; &quot;appname:&#x2F;&#x2F;&quot;;</span><br></pre></td></tr></table></figure>
+<p>the drawback of this method is that it always switch to the window of the luanched app if the app is installed.<br>can not luanch the app background or in silence.</p>
+<h1 id="Useful-attributes-and-tools"><a href="#Useful-attributes-and-tools" class="headerlink" title="Useful attributes and tools"></a>Useful attributes and tools</h1><h2 id="HTML-Attributes"><a href="#HTML-Attributes" class="headerlink" title="HTML Attributes"></a>HTML Attributes</h2><ul>
+<li>‘window.document.webkitHidden’ is to detect if your app is already invoked and current safari tab to going to the background.</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">window.location &#x3D; appurl;&#x2F;&#x2F; fb:&#x2F;&#x2F;method&#x2F;call..</span><br><span class="line">!window.document.webkitHidden &amp;&amp; setTimeout(function () &#123;</span><br><span class="line">    setTimeout(function () &#123;</span><br><span class="line">    window.location &#x3D; weburl; &#x2F;&#x2F; http:&#x2F;&#x2F;itunes.apple.com&#x2F;..</span><br><span class="line">    &#125;, 100);</span><br><span class="line">&#125;, 600);</span><br></pre></td></tr></table></figure>
+
+<h2 id="Tools"><a href="#Tools" class="headerlink" title="Tools"></a>Tools</h2><p>The first two ones are only for NativeScript, can not be used in webpage.</p>
+<ul>
+<li><a href="https://github.com/EddyVerbruggen/nativescript-appavailability" target="_blank" rel="noopener">NativeScript AppAvailability</a></li>
+<li><a href="https://github.com/ohh2ahh/AppAvailability#1-description" target="_blank" rel="noopener">AppAvailability</a> </li>
+<li><a href="https://github.com/dojo" target="_blank" rel="noopener">dojo</a></li>
+<li><a href="https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html" target="_blank" rel="noopener">Promoting Apps with Smart App Banners</a></li>
+<li><a href="https://blog.patw.me/archives/1069/js-app-url-scheme-open-workaround/" target="_blank" rel="noopener">https://blog.patw.me/archives/1069/js-app-url-scheme-open-workaround/</a></li>
+</ul>
+<p>URL schemes</p>
+<ul>
+<li><a href="http://blog.csdn.net/wm9028/article/details/49995329" target="_blank" rel="noopener">http://blog.csdn.net/wm9028/article/details/49995329</a></li>
+<li><a href="https://www.zybuluo.com/jean/note/286981" target="_blank" rel="noopener">https://www.zybuluo.com/jean/note/286981</a></li>
+<li><a href="https://sikaixing.com/2016/10/15/ios_url_schemes/" target="_blank" rel="noopener">https://sikaixing.com/2016/10/15/ios_url_schemes/</a></li>
+<li><a href="https://github.com/github-xiaogang/URL-Schemes" target="_blank" rel="noopener">https://github.com/github-xiaogang/URL-Schemes</a></li>
+<li><a href="https://www.zhihu.com/question/19907735" target="_blank" rel="noopener">https://www.zhihu.com/question/19907735</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Academic</category>
+      </categories>
+      <tags>
+        <tag>Mobile</tag>
+        <tag>JavaScript</tag>
+        <tag>App</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一些可以作为本科生毕业设计的主题</title>
+    <url>/2017/12/14/2017-12-14-useful-topics-for-undergraduate-s-final-task/</url>
+    <content><![CDATA[<ul>
+<li>基于桌面的个人云盘数据保险箱</li>
+<li>基于Android系统的个人云盘数据保险箱</li>
+</ul>
+<blockquote>
+<p>这两个题目内容可以看前面的post和专利文本</p>
+</blockquote>
+<ul>
+<li>基于Android用户安装App的隐私分析</li>
+<li>基于Android用户安装App的设备识别与追踪</li>
+</ul>
+<blockquote>
+<p>这两个题目是应用安装的本地API检测安装APP列表来实现，看前一个post</p>
+</blockquote>
+<ul>
+<li>基于插件的抗WebGL浏览器指纹防御技术及实现（噪音）</li>
+<li>基于噪音的浏览器内核抗WebGL浏览器指纹防护技术及实现</li>
+</ul>
+<blockquote>
+<p>这两个提米是针对浏览器指纹追踪技术的防御，其中WebGl渲染的贡献率比较高，能够抗这种攻击的噪音防御方法的两种实现，改变glsl代码的执行。后一个有类似的实现，想要对其他浏览器内核进行实现，如Chrome内核、Firefox内核，各种不同的主流的浏览器内核都能实现。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Teaching work</category>
+      </categories>
+      <tags>
+        <tag>security</tag>
+        <tag>privacy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>How much information is exposed by  the apps you installed ?</title>
+    <url>/2017/12/14/2017-12-14-how-much-information-is-exposed-by-the-apps-you-installed/</url>
+    <content><![CDATA[<p>Some academic work and techonical work showed that, apps list can be got by a third party app via the api canopenURL and othe ones.</p>
+<p>A very early app named <a href="http://danielamitay.com/blog/2011/2/16/how-to-detect-installed-ios-apps" target="_blank" rel="noopener">Dump</a> is developed to recommand new app to users. this app indecated that it can get all the installed apps over the users mobile phone. Later, the develop team of this app joined into google.</p>
+<p>And in the last year, for privacy issue, apple limited the use of CanOpenURL api on IOS 9 and later. You can see the explanation <a href="https://cromulentlabs.wordpress.com/2016/01/15/explanation-of-canopenurl-changes-in-ios-9/" target="_blank" rel="noopener">here</a>.</p>
+<p>What I want to say is that, over android, this api is still useable. For the commencial puspose, i.e advertising, this API and other related apis will be used to track and analysis users.</p>
+<p>some work may should to do.</p>
+<h2 id="script-tools"><a href="#script-tools" class="headerlink" title="script tools"></a>script tools</h2><ul>
+<li><a href="https://www.npmjs.com/package/nativescript-appavailability" target="_blank" rel="noopener">nativescript-appavailability</a></li>
+<li><a href="https://github.com/CollabPlus/ANE-Can-Open-URL" target="_blank" rel="noopener">ANE-Can-Open-URL</a></li>
+<li><a href="https://github.com/danielamitay/iHasApp" target="_blank" rel="noopener">iHasApp</a></li>
+</ul>
+<h2 id="Academic-publications"><a href="#Academic-publications" class="headerlink" title="Academic publications"></a>Academic publications</h2><ul>
+<li>Suranga Seneviratne, Aruna Seneviratne, Prasant Mohapatra, and Anirban Mahanti. 2014. Predicting user traits from a snapshot of apps installed on a smartphone. SIGMOBILE Mob. Comput. Commun. Rev. 18, 2 (June 2014), 1-8. DOI=<a href="http://dx.doi.org/10.1145/2636242.2636244" target="_blank" rel="noopener">http://dx.doi.org/10.1145/2636242.2636244</a></li>
+<li>Suranga Seneviratne, Aruna Seneviratne, Prasant Mohapatra, and Anirban Mahanti. 2015. Your Installed Apps Reveal Your Gender and More!. SIGMOBILE Mob. Comput. Commun. Rev. 18, 3 (January 2015), 55-61. DOI=10.1145/2721896.2721908 </li>
+<li>Remo M. Frey, Runhua Xu, Alexander Ilic, Reality-Mining with Smartphones: Detecting and Predicting Life Events based on App Installation Behavior. ICIS 2015</li>
+<li>Eric Malmi, Ingmar Weber. You Are What Apps You Use: Demographic Prediction Based on User’s Apps.    arXiv:1603.00059.</li>
+<li>Ünal P., Temizel T.T., Eren P.E. (2016) Impact of Individual Differences on the Use of Mobile Phones and Applications. In: Younas M., Awan I., Kryvinska N., Strauss C., Thanh D. (eds) Mobile Web and Intelligent Information Systems. MobiWIS 2016. Lecture Notes in Computer Science, vol 9847. Springer, Cham</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Academic</category>
+      </categories>
+      <tags>
+        <tag>privacy protection</tag>
+        <tag>App</tag>
+        <tag>Fingerprint</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Apply Searchable Encryption into Privacy Preserving of Genomic Data </title>
+    <url>/2018/01/04/2018-01-04-apply-searchable-encryption-into-privacy-preserving-of-genomic-data/</url>
+    <content><![CDATA[<p>Recently, Ariel Hamlin propoesed a new scheme of Multi-key searchable encryption with high performence of security and privacy preserving.</p>
+<blockquote>
+<p>Cryptology ePrint Archive: Report 2018/018</p>
+</blockquote>
+<blockquote>
+<p>Multi-Key Searchable Encryption, Revisited</p>
+</blockquote>
+<blockquote>
+<p>Ariel Hamlin and abhi shelat and Mor Weiss and Daniel Wichs</p>
+</blockquote>
+<p>There are two ideas inspired by this work, if the proposed method can work as claimed.</p>
+<ol>
+<li>is it possible to develop a system based on this scheme and Mylar?</li>
+<li>is it possible to design a solution for genomic data sharing in the setting that when a person wants to query the most similar genome sequence?</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Academic</category>
+      </categories>
+      <tags>
+        <tag>Cryptography</tag>
+        <tag>privacy protection</tag>
+        <tag>Genomic Data</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Recommand Tools</title>
+    <url>/2018/01/05/2018-01-05-recommand-tools/</url>
+    <content><![CDATA[<p>Here are some tools for efficent works.</p>
+<h2 id="Academic"><a href="#Academic" class="headerlink" title="Academic"></a>Academic</h2><ul>
+<li>写作 Ctex</li>
+<li>写作 word</li>
+<li>在线写作 sharelatex</li>
+<li>在线写作 Sciflow</li>
+<li>在线latex公式 <a href="http://www.codecogs.com/latex/eqneditor.php" target="_blank" rel="noopener">http://www.codecogs.com/latex/eqneditor.php</a></li>
+<li>在线Poster制作 <a href="https://www.lucidpress.com/documents" target="_blank" rel="noopener">Lucidpress</a></li>
+<li>文献引用  cite this for me</li>
+<li>文献管理  Endnote</li>
+<li>文献管理 Noteexpress</li>
+<li>文献管理 zotero online</li>
+<li>文献管理 Docear</li>
+<li>书籍管理 calibre</li>
+<li>文献下载 Scihub for desktop</li>
+<li>科研笔记 typora</li>
+<li>科研笔记 有道云笔记</li>
+<li>科研笔记 幕布</li>
+<li>科学上网 赛风</li>
+<li>科学上网 Simple DNScrypt</li>
+<li>科学上网 VPN PRO</li>
+<li><a href="http://www.myhuiban.com/" target="_blank" rel="noopener">会伴</a></li>
+<li><a href="https://easychair.org/cfp/" target="_blank" rel="noopener">CFP</a></li>
+<li><a href="http://kdd.ics.uci.edu/databases/nsfabs/nsfawards.html" target="_blank" rel="noopener">NSF Research Awards Abstracts 1990-2003</a>: 美国自然科学基金项目的摘要数据集</li>
+<li><a href="https://github.com/synthetichealth/synthea" target="_blank" rel="noopener">synthea</a>:一个医疗数据集生成器</li>
+</ul>
+<h2 id="Programming"><a href="#Programming" class="headerlink" title="Programming"></a>Programming</h2><ul>
+<li>MATLAB</li>
+<li>Github for desktop</li>
+<li>Rstudio</li>
+<li>blogdown</li>
+<li>Python</li>
+<li>virtualbox</li>
+<li>ubuntu</li>
+<li>XShell</li>
+<li>Notepad++</li>
+<li><a href="https://www.joomla.org/" target="_blank" rel="noopener">Joomla</a></li>
+<li><a href="https://www.drupal.org/" target="_blank" rel="noopener">Drupal</a></li>
+</ul>
+<h2 id="Everyday-Use"><a href="#Everyday-Use" class="headerlink" title="Everyday Use"></a>Everyday Use</h2><ul>
+<li>在线协作作图  <a href="https://www.processon.com" target="_blank" rel="noopener">https://www.processon.com</a></li>
+<li>截图 ShareX</li>
+<li>截图 snipaste</li>
+<li>PPT插件 islide</li>
+<li>图片放缩 picture zoom</li>
+<li>下载 Internet Download Manager</li>
+<li>下载 qBittorrent</li>
+<li>资源管理 listary</li>
+<li>资源管理 everything</li>
+<li>自动操作管理 Dropit</li>
+<li>快速稳健预览 quicklook</li>
+<li>手势操作 WGestures</li>
+<li>音乐播放 网易云音乐</li>
+<li>词典 有道词典</li>
+<li>markdown写作  typora</li>
+<li>编纂图书 Gitbook</li>
+<li>解压缩 7zip</li>
+<li>浏览器 chrome</li>
+<li>网盘 MEGAsync</li>
+<li>网盘 坚果云</li>
+<li>设备文件同步 Resilio Sync</li>
+<li>系统优化 Dism++</li>
+</ul>
+<h2 id="杰出研究人员"><a href="#杰出研究人员" class="headerlink" title="杰出研究人员"></a>杰出研究人员</h2><ul>
+<li>隐私保护<ul>
+<li><a href="http://users.cms.caltech.edu/~katrina/" target="_blank" rel="noopener">Katrina Ligett</a>, Hebrew University and Caltech</li>
+<li><a href="https://www.cs.bgu.ac.il/~kobbi/" target="_blank" rel="noopener">Kobbi Nissim</a>, Georgetown University and Harvard</li>
+<li><a href="https://www.cs.cornell.edu/~shmat/" target="_blank" rel="noopener">Vitaly Shmatikov</a>, Cornell Tech</li>
+<li><a href="http://www.cse.psu.edu/~ads22/" target="_blank" rel="noopener">Adam Smith</a>, Pennsylvania State University</li>
+<li><a href="http://www.ccs.neu.edu/home/jullman/" target="_blank" rel="noopener">Jon Ullman</a>, Northeastern University</li>
+</ul>
+</li>
+</ul>
+<h2 id="密码工具库"><a href="#密码工具库" class="headerlink" title="密码工具库"></a>密码工具库</h2><ul>
+<li><a href="https://letsencrypt.org/" target="_blank" rel="noopener">Let’s Encrypt</a></li>
+<li><a href="http://www.openssl.org" target="_blank" rel="noopener">OpenSSL</a></li>
+<li><a href="http://www.libressl.org/" target="_blank" rel="noopener">LibreSSL</a></li>
+<li><a href="http://boringssl.org/" target="_blank" rel="noopener">BoringSSL</a></li>
+<li><a href="https://github.com/google/wycheproof" target="_blank" rel="noopener">wycheproof</a></li>
+<li><a href="https://www.microsoft.com/en-us/research/project/lattice-cryptography-library/" target="_blank" rel="noopener">Lattice Cryptography Library</a></li>
+<li><a href="https://beta.dataverse.org/custom/DifferentialPrivacyPrototype/" target="_blank" rel="noopener">Privacy Tools</a></li>
+<li>Beecrypt   <a href="http://beecrypt.sourceforge.net/" target="_blank" rel="noopener">http://beecrypt.sourceforge.net/</a> </li>
+<li>libecc   <a href="http://libecc.sourceforge.net/" target="_blank" rel="noopener">http://libecc.sourceforge.net/</a> </li>
+<li>GMssl <a href="http://gmssl.org/" target="_blank" rel="noopener">http://gmssl.org/</a></li>
+<li>Java Elliptic Curve Cryptography project (JECC)  <a href="http://jecc.sourceforge.net/" target="_blank" rel="noopener">http://jecc.sourceforge.net/</a></li>
+<li>PolyCrypt: A WebCrypto Polyfill    <a href="http://polycrypt.net" target="_blank" rel="noopener">http://polycrypt.net</a></li>
+<li>javascript-crypto-library   <a href="https://github.com/clipperz/javascript-crypto-library" target="_blank" rel="noopener">https://github.com/clipperz/javascript-crypto-library</a></li>
+<li>js-crypto  <a href="https://github.com/jbt/js-crypto" target="_blank" rel="noopener">https://github.com/jbt/js-crypto</a></li>
+<li>Stanford Javascript Crypto Library                       <a href="http://bitwiseshiftleft.github.io/sjcl/" target="_blank" rel="noopener">http://bitwiseshiftleft.github.io/sjcl/</a></li>
+<li>js-nacl         <a href="https://github.com/tonyg/js-nacl" target="_blank" rel="noopener">https://github.com/tonyg/js-nacl</a></li>
+<li>crypto-js     <a href="https://code.google.com/p/crypto-js/" target="_blank" rel="noopener">https://code.google.com/p/crypto-js/</a></li>
+<li>Forge: JavaScript Security and Cryptography    <a href="http://digitalbazaar.com/forge/" target="_blank" rel="noopener">http://digitalbazaar.com/forge/</a></li>
+<li>JavaScript Shopping &amp; Crypto                              <a href="http://shop-js.sourceforge.net" target="_blank" rel="noopener">http://shop-js.sourceforge.net</a></li>
+<li>pidCrypt - a JavaScript crypto library                    <a href="https://www.pidder.de/pidcrypt/" target="_blank" rel="noopener">https://www.pidder.de/pidcrypt/</a></li>
+<li>Charm  A Framework for Rapidly Prototyping Cryptosystems   <a href="http://charm-crypto.io" target="_blank" rel="noopener">http://charm-crypto.io</a></li>
+</ul>
+<h2 id="安全审计"><a href="#安全审计" class="headerlink" title="安全审计"></a>安全审计</h2><ul>
+<li>Linux安全审计工具Lynis <a href="http://www.freebuf.com/tools/43185.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/43185.html</a></li>
+<li>PHP配置安全检查工具PCC <a href="https://github.com/sektioneins/pcc" target="_blank" rel="noopener">https://github.com/sektioneins/pcc</a></li>
+</ul>
+<h2 id="渗透测试"><a href="#渗透测试" class="headerlink" title="渗透测试"></a>渗透测试</h2><ul>
+<li>常用的渗透测试工具型网站 <a href="http://www.freebuf.com/tools/42919.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/42919.html</a></li>
+<li>渗透测试的漏洞开发与交付系统Metasploit框架 <a href="https://github.com/rapid7/metasploit-framework" target="_blank" rel="noopener">https://github.com/rapid7/metasploit-framework</a></li>
+<li>自动化渗透测试工具heybe <a href="https://github.com/heybe" target="_blank" rel="noopener">https://github.com/heybe</a></li>
+<li>路由器安全测试工具 – Router Scan v2.44（汉化版）<a href="http://www.freebuf.com/tools/38976.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/38976.html</a></li>
+<li>知名渗透测试套件BurpSuitePro v1.6 beta破解版公布<a href="http://www.freebuf.com/tools/29161.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/29161.html</a></li>
+<li>自动化渗透测试工具 – Heybe <a href="http://www.freebuf.com/tools/34653.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/34653.html</a></li>
+</ul>
+<h2 id="漏洞扫描"><a href="#漏洞扫描" class="headerlink" title="漏洞扫描"></a>漏洞扫描</h2><ul>
+<li>Ruby on Rails应用程序的漏洞扫描工具Brakeman <a href="https://github.com/presidentbeef/brakeman" target="_blank" rel="noopener">https://github.com/presidentbeef/brakeman</a></li>
+<li>XSS漏洞检测爬虫 <a href="https://github.com/DanMcInerney/xsscrapy" target="_blank" rel="noopener">https://github.com/DanMcInerney/xsscrapy</a></li>
+<li>rootkit检测工具chkrootkit <a href="http://www.chkrootkit.org/" target="_blank" rel="noopener">http://www.chkrootkit.org/</a></li>
+<li>WiFi分析和安全检测工具 <a href="https://www.acrylicwifi.com/en/wlan-software/acrylic-professional-wifi-analyzer/" target="_blank" rel="noopener">https://www.acrylicwifi.com/en/wlan-software/acrylic-professional-wifi-analyzer/</a></li>
+</ul>
+<ul>
+<li>DedeCMS全版本通杀SQL注入漏洞利用代码及工具 <a href="http://www.freebuf.com/tools/27206.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/27206.html</a> </li>
+<li>安全扫描器IBMAppscan v8.8 <a href="http://www.freebuf.com/tools/27762.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/27762.html</a></li>
+<li>Web安全扫描器Netsparker v3.5.3破解版 <a href="http://www.freebuf.com/tools/38798.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/38798.html</a> </li>
+<li>网络漏洞扫描工具最新AcunetixWeb Vulnerability Scanner 9.5破解版 <a href="http://www.freebuf.com/tools/34653.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/34653.html</a></li>
+</ul>
+<h2 id="抓包工具"><a href="#抓包工具" class="headerlink" title="抓包工具"></a>抓包工具</h2><ul>
+<li>IPv4数据包捕捉、索引与数据库系统Moloch <a href="https://github.com/aol/moloch" target="_blank" rel="noopener">https://github.com/aol/moloch</a></li>
+<li>livepool <a href="https://github.com/rehorn/livepool" target="_blank" rel="noopener">https://github.com/rehorn/livepool</a></li>
+<li>针对网络包和流的大数据分析框架OpenSOC </li>
+<li>Microsoft开发的抓包和流量分析软件Message Analyzer <a href="http://www.microsoft.com/en-us/download/details.aspx?id=44226" target="_blank" rel="noopener">http://www.microsoft.com/en-us/download/details.aspx?id=44226</a></li>
+<li>CapTipper：恶意HTTP流量资源管理器工具 <a href="http://bobao.360.cn/learning/detail/213.html" target="_blank" rel="noopener">http://bobao.360.cn/learning/detail/213.html</a></li>
+</ul>
+<h2 id="入侵检测"><a href="#入侵检测" class="headerlink" title="入侵检测"></a>入侵检测</h2><ul>
+<li>入侵检测系统分析系统Bro <a href="https://github.com/bro/bro" target="_blank" rel="noopener">https://github.com/bro/bro</a></li>
+<li>基于主机的入侵检测系统OSSEC <a href="https://github.com/ossec/ossec-hids" target="_blank" rel="noopener">https://github.com/ossec/ossec-hids</a></li>
+<li>Mac设备的入侵检测分析系统框架MIDAS <a href="https://github.com/etsy/MIDAS" target="_blank" rel="noopener">https://github.com/etsy/MIDAS</a></li>
+<li>入侵检测系统OSSEC <a href="http://www.ossec.net/" target="_blank" rel="noopener">http://www.ossec.net/</a></li>
+</ul>
+<h2 id="恶意代码分析"><a href="#恶意代码分析" class="headerlink" title="恶意代码分析"></a>恶意代码分析</h2><ul>
+<li>自动化动态恶意软件分析系统Cuckoo Sandbox <a href="https://github.com/cuckoobox/cuckoo" target="_blank" rel="noopener">https://github.com/cuckoobox/cuckoo</a></li>
+</ul>
+<h2 id="计算机取证"><a href="#计算机取证" class="headerlink" title="计算机取证"></a>计算机取证</h2><ul>
+<li>计算机取证工具OS X Auditor <a href="https://github.com/jipegit/OSXAuditor" target="_blank" rel="noopener">https://github.com/jipegit/OSXAuditor</a></li>
+<li>计算机取证工具The Sleuth Kit <a href="https://github.com/sleuthkit/sleuthkit" target="_blank" rel="noopener">https://github.com/sleuthkit/sleuthkit</a></li>
+<li>基于DNS记录流量分析的计算机取证工具PassiveDNS <a href="https://github.com/gamelinux/passivedns" target="_blank" rel="noopener">https://github.com/gamelinux/passivedns</a></li>
+</ul>
+<h2 id="工具汇集站"><a href="#工具汇集站" class="headerlink" title="工具汇集站"></a>工具汇集站</h2><ul>
+<li>腾讯安全应急中心 <a href="http://security.tencent.com/index.php/opensource/all" target="_blank" rel="noopener">http://security.tencent.com/index.php/opensource/all</a></li>
+</ul>
+<h2 id="加解密"><a href="#加解密" class="headerlink" title="加解密"></a>加解密</h2><ul>
+<li>CipherShed  <a href="https://github.com/CipherShed/CipherShed" target="_blank" rel="noopener">https://github.com/CipherShed/CipherShed</a>  <a href="https://ciphershed.org/" target="_blank" rel="noopener">https://ciphershed.org/</a></li>
+<li>letsencrypt <a href="https://letsencrypt.org/" target="_blank" rel="noopener">https://letsencrypt.org/</a></li>
+<li>Tcpcrypt <a href="http://www.tcpcrypt.org/" target="_blank" rel="noopener">http://www.tcpcrypt.org/</a></li>
+<li>密码分析工具 – Pipal <a href="http://www.freebuf.com/tools/49592.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/49592.html</a></li>
+</ul>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><ul>
+<li>Mozilla安全事件防御平台MozDef <a href="https://github.com/jeffbryner/MozDef" target="_blank" rel="noopener">https://github.com/jeffbryner/MozDef</a></li>
+<li>Mozilla跟踪记录个人隐私平台lightbeam   <a href="http://mozilla.org/lightbeam" target="_blank" rel="noopener">http://mozilla.org/lightbeam</a></li>
+<li>Windows密码抓取神器mimikatz2.0 <a href="http://www.freebuf.com/tools/37162.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/37162.html</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>academic</category>
+        <category>skills</category>
+      </categories>
+      <tags>
+        <tag>tools</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一些推荐的学术工具</title>
+    <url>/2018/01/05/2018-01-05-recommand-tools.zh/</url>
+    <content><![CDATA[<p>Here are some tools for efficent works.</p>
+<h2 id="学术"><a href="#学术" class="headerlink" title="学术"></a>学术</h2><ul>
+<li>写作 Ctex</li>
+<li>写作 word</li>
+<li>在线写作 sharelatex</li>
+<li>在线写作 Sciflow</li>
+<li>在线latex公式 <a href="http://www.codecogs.com/latex/eqneditor.php" target="_blank" rel="noopener">http://www.codecogs.com/latex/eqneditor.php</a></li>
+<li>在线Poster制作 <a href="https://www.lucidpress.com/documents" target="_blank" rel="noopener">Lucidpress</a></li>
+<li>文献引用  cite this for me</li>
+<li>文献管理  Endnote</li>
+<li>文献管理 Noteexpress</li>
+<li>文献管理 zotero online</li>
+<li>文献管理 Docear</li>
+<li>书籍管理 calibre</li>
+<li>文献下载 Scihub for desktop</li>
+<li>科研笔记 typora</li>
+<li>科研笔记 有道云笔记</li>
+<li>科研笔记 幕布</li>
+<li>科学上网 赛风</li>
+<li>科学上网 Simple DNScrypt</li>
+<li>科学上网 VPN PRO</li>
+<li><a href="http://www.myhuiban.com/" target="_blank" rel="noopener">会伴</a></li>
+<li><a href="https://easychair.org/cfp/" target="_blank" rel="noopener">CFP</a></li>
+<li><a href="http://kdd.ics.uci.edu/databases/nsfabs/nsfawards.html" target="_blank" rel="noopener">NSF Research Awards Abstracts 1990-2003</a>: 美国自然科学基金项目的摘要数据集</li>
+<li><a href="https://github.com/synthetichealth/synthea" target="_blank" rel="noopener">synthea</a>:一个医疗数据集生成器</li>
+</ul>
+<h2 id="编程"><a href="#编程" class="headerlink" title="编程"></a>编程</h2><ul>
+<li>MATLAB</li>
+<li>Github for desktop</li>
+<li>Rstudio</li>
+<li>blogdown</li>
+<li>Python</li>
+<li>virtualbox</li>
+<li>ubuntu</li>
+<li>XShell</li>
+<li>Notepad++</li>
+<li><a href="https://www.joomla.org/" target="_blank" rel="noopener">Joomla</a></li>
+<li><a href="https://www.drupal.org/" target="_blank" rel="noopener">Drupal</a></li>
+</ul>
+<h2 id="日常应用"><a href="#日常应用" class="headerlink" title="日常应用"></a>日常应用</h2><ul>
+<li>在线协作作图  <a href="https://www.processon.com" target="_blank" rel="noopener">https://www.processon.com</a></li>
+<li>截图 ShareX</li>
+<li>截图 snipaste</li>
+<li>PPT插件 islide</li>
+<li>图片放缩 picture zoom</li>
+<li>下载 Internet Download Manager</li>
+<li>下载 qBittorrent</li>
+<li>资源管理 listary</li>
+<li>资源管理 everything</li>
+<li>自动操作管理 Dropit</li>
+<li>快速稳健预览 quicklook</li>
+<li>手势操作 WGestures</li>
+<li>音乐播放 网易云音乐</li>
+<li>词典 有道词典</li>
+<li>markdown写作  typora</li>
+<li>编纂图书 Gitbook</li>
+<li>解压缩 7zip</li>
+<li>浏览器 chrome</li>
+<li>网盘 MEGAsync</li>
+<li>网盘 坚果云</li>
+<li>设备文件同步 Resilio Sync</li>
+<li>系统优化 Dism++</li>
+</ul>
+<h2 id="杰出研究人员"><a href="#杰出研究人员" class="headerlink" title="杰出研究人员"></a>杰出研究人员</h2><ul>
+<li>隐私保护<ul>
+<li><a href="http://users.cms.caltech.edu/~katrina/" target="_blank" rel="noopener">Katrina Ligett</a>, Hebrew University and Caltech</li>
+<li><a href="https://www.cs.bgu.ac.il/~kobbi/" target="_blank" rel="noopener">Kobbi Nissim</a>, Georgetown University and Harvard</li>
+<li><a href="https://www.cs.cornell.edu/~shmat/" target="_blank" rel="noopener">Vitaly Shmatikov</a>, Cornell Tech</li>
+<li><a href="http://www.cse.psu.edu/~ads22/" target="_blank" rel="noopener">Adam Smith</a>, Pennsylvania State University</li>
+<li><a href="http://www.ccs.neu.edu/home/jullman/" target="_blank" rel="noopener">Jon Ullman</a>, Northeastern University</li>
+</ul>
+</li>
+</ul>
+<h2 id="密码工具库"><a href="#密码工具库" class="headerlink" title="密码工具库"></a>密码工具库</h2><ul>
+<li><a href="https://letsencrypt.org/" target="_blank" rel="noopener">Let’s Encrypt</a></li>
+<li><a href="http://www.openssl.org" target="_blank" rel="noopener">OpenSSL</a></li>
+<li><a href="http://www.libressl.org/" target="_blank" rel="noopener">LibreSSL</a></li>
+<li><a href="http://boringssl.org/" target="_blank" rel="noopener">BoringSSL</a></li>
+<li><a href="https://github.com/google/wycheproof" target="_blank" rel="noopener">wycheproof</a></li>
+<li><a href="https://www.microsoft.com/en-us/research/project/lattice-cryptography-library/" target="_blank" rel="noopener">Lattice Cryptography Library</a></li>
+<li><a href="https://beta.dataverse.org/custom/DifferentialPrivacyPrototype/" target="_blank" rel="noopener">Privacy Tools</a></li>
+<li>Beecrypt   <a href="http://beecrypt.sourceforge.net/" target="_blank" rel="noopener">http://beecrypt.sourceforge.net/</a> </li>
+<li>libecc   <a href="http://libecc.sourceforge.net/" target="_blank" rel="noopener">http://libecc.sourceforge.net/</a> </li>
+<li>GMssl <a href="http://gmssl.org/" target="_blank" rel="noopener">http://gmssl.org/</a></li>
+<li>Java Elliptic Curve Cryptography project (JECC)  <a href="http://jecc.sourceforge.net/" target="_blank" rel="noopener">http://jecc.sourceforge.net/</a></li>
+<li>PolyCrypt: A WebCrypto Polyfill    <a href="http://polycrypt.net" target="_blank" rel="noopener">http://polycrypt.net</a></li>
+<li>javascript-crypto-library   <a href="https://github.com/clipperz/javascript-crypto-library" target="_blank" rel="noopener">https://github.com/clipperz/javascript-crypto-library</a></li>
+<li>js-crypto  <a href="https://github.com/jbt/js-crypto" target="_blank" rel="noopener">https://github.com/jbt/js-crypto</a></li>
+<li>Stanford Javascript Crypto Library                       <a href="http://bitwiseshiftleft.github.io/sjcl/" target="_blank" rel="noopener">http://bitwiseshiftleft.github.io/sjcl/</a></li>
+<li>js-nacl         <a href="https://github.com/tonyg/js-nacl" target="_blank" rel="noopener">https://github.com/tonyg/js-nacl</a></li>
+<li>crypto-js     <a href="https://code.google.com/p/crypto-js/" target="_blank" rel="noopener">https://code.google.com/p/crypto-js/</a></li>
+<li>Forge: JavaScript Security and Cryptography    <a href="http://digitalbazaar.com/forge/" target="_blank" rel="noopener">http://digitalbazaar.com/forge/</a></li>
+<li>JavaScript Shopping &amp; Crypto                              <a href="http://shop-js.sourceforge.net" target="_blank" rel="noopener">http://shop-js.sourceforge.net</a></li>
+<li>pidCrypt - a JavaScript crypto library                    <a href="https://www.pidder.de/pidcrypt/" target="_blank" rel="noopener">https://www.pidder.de/pidcrypt/</a></li>
+<li>Charm  A Framework for Rapidly Prototyping Cryptosystems   <a href="http://charm-crypto.io" target="_blank" rel="noopener">http://charm-crypto.io</a></li>
+</ul>
+<h2 id="安全审计"><a href="#安全审计" class="headerlink" title="安全审计"></a>安全审计</h2><ul>
+<li>Linux安全审计工具Lynis <a href="http://www.freebuf.com/tools/43185.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/43185.html</a></li>
+<li>PHP配置安全检查工具PCC <a href="https://github.com/sektioneins/pcc" target="_blank" rel="noopener">https://github.com/sektioneins/pcc</a></li>
+</ul>
+<h2 id="渗透测试"><a href="#渗透测试" class="headerlink" title="渗透测试"></a>渗透测试</h2><ul>
+<li>常用的渗透测试工具型网站 <a href="http://www.freebuf.com/tools/42919.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/42919.html</a></li>
+<li>渗透测试的漏洞开发与交付系统Metasploit框架 <a href="https://github.com/rapid7/metasploit-framework" target="_blank" rel="noopener">https://github.com/rapid7/metasploit-framework</a></li>
+<li>自动化渗透测试工具heybe <a href="https://github.com/heybe" target="_blank" rel="noopener">https://github.com/heybe</a></li>
+<li>路由器安全测试工具 – Router Scan v2.44（汉化版）<a href="http://www.freebuf.com/tools/38976.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/38976.html</a></li>
+<li>知名渗透测试套件BurpSuitePro v1.6 beta破解版公布<a href="http://www.freebuf.com/tools/29161.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/29161.html</a></li>
+<li>自动化渗透测试工具 – Heybe <a href="http://www.freebuf.com/tools/34653.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/34653.html</a></li>
+</ul>
+<h2 id="漏洞扫描"><a href="#漏洞扫描" class="headerlink" title="漏洞扫描"></a>漏洞扫描</h2><ul>
+<li>Ruby on Rails应用程序的漏洞扫描工具Brakeman <a href="https://github.com/presidentbeef/brakeman" target="_blank" rel="noopener">https://github.com/presidentbeef/brakeman</a></li>
+<li>XSS漏洞检测爬虫 <a href="https://github.com/DanMcInerney/xsscrapy" target="_blank" rel="noopener">https://github.com/DanMcInerney/xsscrapy</a></li>
+<li>rootkit检测工具chkrootkit <a href="http://www.chkrootkit.org/" target="_blank" rel="noopener">http://www.chkrootkit.org/</a></li>
+<li>WiFi分析和安全检测工具 <a href="https://www.acrylicwifi.com/en/wlan-software/acrylic-professional-wifi-analyzer/" target="_blank" rel="noopener">https://www.acrylicwifi.com/en/wlan-software/acrylic-professional-wifi-analyzer/</a></li>
+</ul>
+<ul>
+<li>DedeCMS全版本通杀SQL注入漏洞利用代码及工具 <a href="http://www.freebuf.com/tools/27206.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/27206.html</a> </li>
+<li>安全扫描器IBMAppscan v8.8 <a href="http://www.freebuf.com/tools/27762.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/27762.html</a></li>
+<li>Web安全扫描器Netsparker v3.5.3破解版 <a href="http://www.freebuf.com/tools/38798.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/38798.html</a> </li>
+<li>网络漏洞扫描工具最新AcunetixWeb Vulnerability Scanner 9.5破解版 <a href="http://www.freebuf.com/tools/34653.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/34653.html</a></li>
+</ul>
+<h2 id="抓包工具"><a href="#抓包工具" class="headerlink" title="抓包工具"></a>抓包工具</h2><ul>
+<li>IPv4数据包捕捉、索引与数据库系统Moloch <a href="https://github.com/aol/moloch" target="_blank" rel="noopener">https://github.com/aol/moloch</a></li>
+<li>livepool <a href="https://github.com/rehorn/livepool" target="_blank" rel="noopener">https://github.com/rehorn/livepool</a></li>
+<li>针对网络包和流的大数据分析框架OpenSOC </li>
+<li>Microsoft开发的抓包和流量分析软件Message Analyzer <a href="http://www.microsoft.com/en-us/download/details.aspx?id=44226" target="_blank" rel="noopener">http://www.microsoft.com/en-us/download/details.aspx?id=44226</a></li>
+<li>CapTipper：恶意HTTP流量资源管理器工具 <a href="http://bobao.360.cn/learning/detail/213.html" target="_blank" rel="noopener">http://bobao.360.cn/learning/detail/213.html</a></li>
+</ul>
+<h2 id="入侵检测"><a href="#入侵检测" class="headerlink" title="入侵检测"></a>入侵检测</h2><ul>
+<li>入侵检测系统分析系统Bro <a href="https://github.com/bro/bro" target="_blank" rel="noopener">https://github.com/bro/bro</a></li>
+<li>基于主机的入侵检测系统OSSEC <a href="https://github.com/ossec/ossec-hids" target="_blank" rel="noopener">https://github.com/ossec/ossec-hids</a></li>
+<li>Mac设备的入侵检测分析系统框架MIDAS <a href="https://github.com/etsy/MIDAS" target="_blank" rel="noopener">https://github.com/etsy/MIDAS</a></li>
+<li>入侵检测系统OSSEC <a href="http://www.ossec.net/" target="_blank" rel="noopener">http://www.ossec.net/</a></li>
+</ul>
+<h2 id="恶意代码分析"><a href="#恶意代码分析" class="headerlink" title="恶意代码分析"></a>恶意代码分析</h2><ul>
+<li>自动化动态恶意软件分析系统Cuckoo Sandbox <a href="https://github.com/cuckoobox/cuckoo" target="_blank" rel="noopener">https://github.com/cuckoobox/cuckoo</a></li>
+</ul>
+<h2 id="计算机取证"><a href="#计算机取证" class="headerlink" title="计算机取证"></a>计算机取证</h2><ul>
+<li>计算机取证工具OS X Auditor <a href="https://github.com/jipegit/OSXAuditor" target="_blank" rel="noopener">https://github.com/jipegit/OSXAuditor</a></li>
+<li>计算机取证工具The Sleuth Kit <a href="https://github.com/sleuthkit/sleuthkit" target="_blank" rel="noopener">https://github.com/sleuthkit/sleuthkit</a></li>
+<li>基于DNS记录流量分析的计算机取证工具PassiveDNS <a href="https://github.com/gamelinux/passivedns" target="_blank" rel="noopener">https://github.com/gamelinux/passivedns</a></li>
+</ul>
+<h2 id="工具汇集站"><a href="#工具汇集站" class="headerlink" title="工具汇集站"></a>工具汇集站</h2><ul>
+<li>腾讯安全应急中心 <a href="http://security.tencent.com/index.php/opensource/all" target="_blank" rel="noopener">http://security.tencent.com/index.php/opensource/all</a></li>
+</ul>
+<h2 id="加解密"><a href="#加解密" class="headerlink" title="加解密"></a>加解密</h2><ul>
+<li>CipherShed  <a href="https://github.com/CipherShed/CipherShed" target="_blank" rel="noopener">https://github.com/CipherShed/CipherShed</a>  <a href="https://ciphershed.org/" target="_blank" rel="noopener">https://ciphershed.org/</a></li>
+<li>letsencrypt <a href="https://letsencrypt.org/" target="_blank" rel="noopener">https://letsencrypt.org/</a></li>
+<li>Tcpcrypt <a href="http://www.tcpcrypt.org/" target="_blank" rel="noopener">http://www.tcpcrypt.org/</a></li>
+<li>密码分析工具 – Pipal <a href="http://www.freebuf.com/tools/49592.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/49592.html</a></li>
+</ul>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><ul>
+<li>Mozilla安全事件防御平台MozDef <a href="https://github.com/jeffbryner/MozDef" target="_blank" rel="noopener">https://github.com/jeffbryner/MozDef</a></li>
+<li>Mozilla跟踪记录个人隐私平台lightbeam   <a href="http://mozilla.org/lightbeam" target="_blank" rel="noopener">http://mozilla.org/lightbeam</a></li>
+<li>Windows密码抓取神器mimikatz2.0 <a href="http://www.freebuf.com/tools/37162.html" target="_blank" rel="noopener">http://www.freebuf.com/tools/37162.html</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>academic</category>
+        <category>skills</category>
+      </categories>
+      <tags>
+        <tag>tools</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>How about the Application of verifiable shuffle fully homomorphic schemes in Genome data privacy preserving</title>
+    <url>/2018/01/07/2018-01-07-how-about-the-application-of-verifiable-shuffle-fully-homomorphic-schemes-in-genome-data-privacy-preserving/</url>
+    <content><![CDATA[<p>Recently, a verifiable shuffle version of full homomorphic encryption scheme is posted on eprint.iacr.org. </p>
+<blockquote>
+<p>Cryptology ePrint Archive: Report 2018/027</p>
+</blockquote>
+<blockquote>
+<p>A verifiable shuffle for the GSW cryptosystem</p>
+</blockquote>
+<blockquote>
+<p>Martin Strand</p>
+</blockquote>
+<p>Shuffles are useful in e-voting, traffic routing and other applications. And verifiable shuffle provides some new specialities for these application.</p>
+<p>As Full Homomorphic Encryption is very useful in Genomic data privacy preserving, some intresting topics should be disscussed further with this new result.</p>
+<ul>
+<li>what’s the meanning of verifiable shuffle?</li>
+<li>what’s the gap in genomic data privacy preserving?</li>
+<li>what’s the difficulties to apply this new scheme?</li>
+<li>is it possible to design and develop a new system to protect the privay of genomic data?</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Academic</category>
+      </categories>
+      <tags>
+        <tag>Cryptography</tag>
+        <tag>privacy protection</tag>
+        <tag>Genomic Data</tag>
+        <tag>fully homomorphic encryption</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Top conferences about recommend system</title>
+    <url>/2018/03/15/2018-03-15-top-conferences-about-recommand-system/</url>
+    <content><![CDATA[<p>Here is a list of top conferences about recommend system and recommend algorithm, it’s very useful.</p>
+<ol>
+<li>SIGKDD Conference on Knowledge Discovery and Data Mining<br><a href="http://www.kdd.org/conferences" target="_blank" rel="noopener">http://www.kdd.org/conferences</a></li>
+<li>ACM International Conference on Web Search and Data Mining<br><a href="http://www.wsdm-conference.org" target="_blank" rel="noopener">http://www.wsdm-conference.org</a></li>
+<li>cikm<br><a href="http://www2.units.it/cikm2018/index.html" target="_blank" rel="noopener">http://www2.units.it/cikm2018/index.html</a></li>
+<li>ACM SIGIR<br><a href="http://sigir.org/sigir2018/" target="_blank" rel="noopener">http://sigir.org/sigir2018/</a></li>
+<li>International World Wide Web Conference(WWW)<br><a href="https://www2018.thewebconf.org" target="_blank" rel="noopener">https://www2018.thewebconf.org</a></li>
+<li>ACM Conference on Recommender Systems(RecSys)<br><a href="https://recsys.acm.org" target="_blank" rel="noopener">https://recsys.acm.org</a></li>
+</ol>
+]]></content>
+      <categories>
+        <category>academic</category>
+      </categories>
+      <tags>
+        <tag>recommand system</tag>
+        <tag>recommand algorithms</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>手机号和邮箱所能进行的网络服务个人偏好隐私攻击</title>
+    <url>/2018/04/19/2018-04-19-web-service-preference-privacy-attack-by-using-phonenumber-or-email/</url>
+    <content><![CDATA[<p>之前做过一段时间的浏览器指纹攻击，通过浏览器可以知道用户是否注册过某些网站，其原理是利用用户在网站上复选的自动登录并验证是否能下载成功需登录才能访问的资源来侧信道检测。用户应用网站服务时，不复选自动登录即可避免此类隐私泄露。</p>
+<p>另一方面，当前很多用户的手机号或者邮箱在网络上都是公开的，通过这些信息可以对用户的隐私进行攻击，攻击的目标是用户使用哪些网站的服务、网络服务偏好是什么、经济状况是什么。这些隐私信息一方面可以被某些网络服务商获取以进行广告推送，另一方面可以被某些不法分子获取，谋取非法利益。</p>
+<p>这里所涉及的攻击思路是：第一步利用手机或者邮箱号检测是否注册过网站，第二步分析在排名前1000网站的注册情况，第三步分析网络注册信息和应用服务偏好，第四部尽可能与个人相互关联。</p>
+<p>这里有一篇不错的帖子，可以做参考：<a href="http://www.freebuf.com/articles/web/168682.html" target="_blank" rel="noopener">http://www.freebuf.com/articles/web/168682.html</a></p>
+]]></content>
+      <categories>
+        <category>Academic</category>
+      </categories>
+      <tags>
+        <tag>privacy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>How to get a robust fingerprint from big dataset</title>
+    <url>/2018/04/11/2018-04-01-data-fingerprint/</url>
+    <content><![CDATA[<p>It’s very useful to design a  algorithm that can get a robust fingerprint from big dataset. this fingerprint should not be accurate, because the dataset always be modified by different users. this one should recognize dataset A and A’, where A’ is modified from A, such as delete some rows, some columns, modify some values, and so on. </p>
+<p>This technology can be use to protect dataset right, trace data transportation. Recently,  researchers from University of California released a eprint paper (<a href="https://arxiv.org/abs/1804.03648" target="_blank" rel="noopener">https://arxiv.org/abs/1804.03648</a>) about this topic. </p>
+<p>This may be a good idea to resolve this problem.</p>
+]]></content>
+      <categories>
+        <category>academic</category>
+        <category>post</category>
+      </categories>
+      <tags>
+        <tag>fingerprint</tag>
+        <tag>data security</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>个人修养进阶课程</title>
+    <url>/2018/04/22/2018-04-22-crouses-for-personal-improvement/</url>
+    <content><![CDATA[<p>教育部公布的若干精品课程，感觉对个人素养提升有帮助的一些课程保存起来，慢慢看。</p>
+<table>
+<thead>
+<tr>
+<th><strong>课程名称</strong></th>
+<th><strong>主要负责人</strong></th>
+<th><strong>主要建设单位</strong></th>
+<th><strong>主要开课平台</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>民俗学</td>
+<td>王娟</td>
+<td>北京大学</td>
+<td>华文慕课</td>
+</tr>
+<tr>
+<td>西方文明史导论</td>
+<td>朱孝远</td>
+<td>北京大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>艺术与审美</td>
+<td>叶朗</td>
+<td>北京大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>“非遗”之首——昆曲经典艺术欣赏</td>
+<td>顾春芳</td>
+<td>北京大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>人群与网络</td>
+<td>李晓明</td>
+<td>北京大学</td>
+<td>华文慕课</td>
+</tr>
+<tr>
+<td>西方哲学精神探源</td>
+<td>王晓朝</td>
+<td>清华大学</td>
+<td>学堂在线</td>
+</tr>
+<tr>
+<td>经典与思考——人文清华大师面对面</td>
+<td>张小琴</td>
+<td>清华大学</td>
+<td>学堂在线</td>
+</tr>
+<tr>
+<td>西方思想经典与现代社会</td>
+<td>黄裕生</td>
+<td>清华大学</td>
+<td>学堂在线</td>
+</tr>
+<tr>
+<td>美国政治概论</td>
+<td>刘瑜</td>
+<td>清华大学</td>
+<td>学堂在线</td>
+</tr>
+<tr>
+<td>唐宋词鉴赏</td>
+<td>王步高、程刚</td>
+<td>清华大学</td>
+<td>学堂在线</td>
+</tr>
+<tr>
+<td>《资治通鉴》导读</td>
+<td>张国刚</td>
+<td>清华大学</td>
+<td>学堂在线</td>
+</tr>
+<tr>
+<td>中国古代礼义文明</td>
+<td>彭林</td>
+<td>清华大学</td>
+<td>学堂在线</td>
+</tr>
+<tr>
+<td>中国建筑史</td>
+<td>王贵祥</td>
+<td>清华大学</td>
+<td>edx</td>
+</tr>
+<tr>
+<td>设计的人因与文化</td>
+<td>饶培伦</td>
+<td>清华大学</td>
+<td>edx</td>
+</tr>
+<tr>
+<td>不朽的艺术：走进大师与经典</td>
+<td>肖鹰、孙晶</td>
+<td>清华大学</td>
+<td>学堂在线</td>
+</tr>
+<tr>
+<td>现代生活美学</td>
+<td>刘惠芬</td>
+<td>清华大学</td>
+<td>学堂在线</td>
+</tr>
+<tr>
+<td>外国工艺美术史</td>
+<td>张夫也</td>
+<td>清华大学</td>
+<td>学堂在线</td>
+</tr>
+<tr>
+<td>中国服装史</td>
+<td>贾玺增</td>
+<td>清华大学</td>
+<td>学堂在线</td>
+</tr>
+<tr>
+<td>麦肯锡“全球领导力”</td>
+<td>段志蓉</td>
+<td>清华大学</td>
+<td>学堂在线</td>
+</tr>
+<tr>
+<td>营销：人人都需要的一门课</td>
+<td>郑毓煌</td>
+<td>清华大学</td>
+<td>学堂在线</td>
+</tr>
+<tr>
+<td>西方文学经典鉴赏</td>
+<td>刘洪涛</td>
+<td>北京师范大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>数学文化十讲</td>
+<td>顾沛</td>
+<td>南开大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>老子的人生智慧</td>
+<td>张雷</td>
+<td>东北大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>外国民商案例选读</td>
+<td>隋军</td>
+<td>东北大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>“互联网+”管理学</td>
+<td>单凤儒</td>
+<td>渤海大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>宇宙探索与发现</td>
+<td>刘金寿</td>
+<td>大连大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>人文视野中的生态学</td>
+<td>包国章</td>
+<td>吉林大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>中国传统艺术——篆刻、书法、水墨画体验与欣赏</td>
+<td>胡修瑞</td>
+<td>哈尔滨工业大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>孙子兵法中的思维智慧</td>
+<td>于凡</td>
+<td>哈尔滨工程大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>保险与生活</td>
+<td>李丹</td>
+<td>东北农业大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>《新教伦理与资本主义精神》导读</td>
+<td>郁喆隽</td>
+<td>复旦大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>用经济学智慧解读中国</td>
+<td>石磊</td>
+<td>复旦大学</td>
+<td>超星尔雅</td>
+</tr>
+<tr>
+<td>创业企业战略与机会选择</td>
+<td>孙金云</td>
+<td>复旦大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>微影人的自我修养</td>
+<td>许肖潇</td>
+<td>复旦大学</td>
+<td>Coursera</td>
+</tr>
+<tr>
+<td>创新中国</td>
+<td>顾骏、顾晓英</td>
+<td>上海大学</td>
+<td>超星尔雅</td>
+</tr>
+<tr>
+<td>欧美电影文化</td>
+<td>彭兴伟</td>
+<td>上海工程技术大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>理解马克思</td>
+<td>张亮</td>
+<td>南京大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>中国行政法原理及应用</td>
+<td>肖泽晟</td>
+<td>南京大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>唐诗经典</td>
+<td>胡可先</td>
+<td>浙江大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>新媒体概论</td>
+<td>韦路</td>
+<td>浙江大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>印象英美——穿越时空之旅</td>
+<td>骆蓉</td>
+<td>杭州师范大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>行为生活方式与健康</td>
+<td>汝海龙</td>
+<td>杭州师范大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>《孙子兵法》鉴赏</td>
+<td>陈润华</td>
+<td>福州大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>中国古典家具</td>
+<td>刘学莘</td>
+<td>福建农林大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>生态文明——撑起美丽中国梦</td>
+<td>林文雄</td>
+<td>福建农林大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>聪慧的源泉——数学导读</td>
+<td>朱传喜</td>
+<td>南昌大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>现场生命急救知识与技能</td>
+<td>郑莉萍</td>
+<td>南昌大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>死亡文化与生死教育</td>
+<td>王云岭</td>
+<td>山东大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>神韵诗研究</td>
+<td>王小舒</td>
+<td>山东大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>《道德经》的智慧启示</td>
+<td>丁玉柱</td>
+<td>中国海洋大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>世界优秀影片赏析</td>
+<td>柴焰</td>
+<td>中国海洋大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>笔墨时空——解读中国书法文化基因</td>
+<td>房彬</td>
+<td>临沂大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>科举与唐诗</td>
+<td>王士祥</td>
+<td>郑州大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>文化差异与跨文化交际</td>
+<td>曾利娟</td>
+<td>郑州大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>佛教文化</td>
+<td>高文强</td>
+<td>武汉大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>马克思主义哲学原理精粹九讲</td>
+<td>汪信砚</td>
+<td>武汉大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>世界华文文学经典欣赏</td>
+<td>赵小琪</td>
+<td>武汉大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>中国文化概论</td>
+<td>李建中</td>
+<td>武汉大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>方言与中国文化</td>
+<td>阮桂君</td>
+<td>武汉大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>文学欣赏与批评</td>
+<td>陈国恩</td>
+<td>武汉大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>简明世界史（一）（二）</td>
+<td>潘迎春</td>
+<td>武汉大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>宇宙新概念</td>
+<td>赵江南</td>
+<td>武汉大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>急救常识</td>
+<td>赵剡</td>
+<td>武汉大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>环境变迁与人类生育力改变</td>
+<td>杨菁</td>
+<td>武汉大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>营养学</td>
+<td>王素青</td>
+<td>武汉大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>网络与新媒体应用模式</td>
+<td>李卫东</td>
+<td>华中科技大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>太极拳文化与功法习练</td>
+<td>易鹏</td>
+<td>武汉理工大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>魅力汉语</td>
+<td>兰霞</td>
+<td>华中农业大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>中国饮食文化</td>
+<td>谢定源</td>
+<td>华中农业大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>标准与我们的生活</td>
+<td>侯俊军</td>
+<td>湖南大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>广告创意学</td>
+<td>李正良</td>
+<td>湖南大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>科举与中国文化</td>
+<td>李兵</td>
+<td>湖南大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>经济生活与数学</td>
+<td>杨湘豫</td>
+<td>湖南大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>互联网+时代的颠覆与创新</td>
+<td>朱国玮</td>
+<td>湖南大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>现代礼仪</td>
+<td>袁涤非</td>
+<td>湖南大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>食物营养与食品安全</td>
+<td>胡敏予</td>
+<td>中南大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>中国茶道</td>
+<td>朱海燕</td>
+<td>湖南农业大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>图说人际关系心理</td>
+<td>叶泽川</td>
+<td>重庆大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>经典导读与欣赏</td>
+<td>董小玉</td>
+<td>西南大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>美学与人生</td>
+<td>寇鹏程</td>
+<td>西南大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>女性学：女性精神在现代社会中的挑战</td>
+<td>陈梅芳、吴敏</td>
+<td>四川大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>中国诗歌艺术</td>
+<td>王红</td>
+<td>四川大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>美国文化</td>
+<td>周毅</td>
+<td>四川大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>太极拳医学</td>
+<td>田汉文</td>
+<td>四川大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>生殖健康——“性”福学堂</td>
+<td>邢爱耘</td>
+<td>四川大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>中华名相之管仲管理思想</td>
+<td>李任飞</td>
+<td>西南交通大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>外国文学经典选读与现实观照</td>
+<td>邹涛</td>
+<td>电子科技大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>中国少数民族文化</td>
+<td>何明</td>
+<td>云南大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>健康生活，预防癌症</td>
+<td>章宗籍、邹英鹰</td>
+<td>昆明医科大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>中国哲学经典著作导读</td>
+<td>张帆、燕连福</td>
+<td>西安交通大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>品读道家智慧</td>
+<td>韩鹏杰</td>
+<td>西安交通大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>社会学概论</td>
+<td>杨建科</td>
+<td>西安交通大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>中国传统文化</td>
+<td>李娟</td>
+<td>西安交通大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>《论语》的智慧</td>
+<td>陆卫明</td>
+<td>西安交通大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>微观经济学</td>
+<td>文建东</td>
+<td>武汉大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>金融学基础</td>
+<td>李强</td>
+<td>电子科技大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>中国税制</td>
+<td>王乔</td>
+<td>江西财经大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>金融学</td>
+<td>李健</td>
+<td>中央财经大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>经济法</td>
+<td>王先林</td>
+<td>上海交通大学</td>
+<td>好大学在线</td>
+</tr>
+<tr>
+<td>中国合同法</td>
+<td>沈伟</td>
+<td>上海交通大学</td>
+<td>好大学在线</td>
+</tr>
+<tr>
+<td>财务分析与决策</td>
+<td>肖星</td>
+<td>清华大学</td>
+<td>edx</td>
+</tr>
+<tr>
+<td>国际金融</td>
+<td>杨胜刚</td>
+<td>湖南大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>Daily work</category>
+      </categories>
+      <tags>
+        <tag>Personal improvement</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>教师的修炼进阶课程</title>
+    <url>/2018/04/22/2018-04-22-crouses-for-teacher-improvement/</url>
+    <content><![CDATA[<table>
+<thead>
+<tr>
+<th><strong>课程名称</strong></th>
+<th><strong>主要负责人</strong></th>
+<th><strong>主要建设单位</strong></th>
+<th><strong>主要开课平台</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>翻转课堂教学法</td>
+<td>汪琼</td>
+<td>北京大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>游戏化教学法</td>
+<td>尚俊杰</td>
+<td>北京大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>教育社会学</td>
+<td>罗燕</td>
+<td>清华大学</td>
+<td>学堂在线</td>
+</tr>
+<tr>
+<td>e时代的大佬师——慕课教师的修炼心法</td>
+<td>王帅国</td>
+<td>清华大学</td>
+<td>学堂在线</td>
+</tr>
+<tr>
+<td>课堂问答的智慧与艺术</td>
+<td>刘徽</td>
+<td>浙江大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>多媒体技术及应用</td>
+<td>王志强</td>
+<td>深圳大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>大学生心理健康</td>
+<td>杨振斌</td>
+<td>吉林大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>信息技术教学应用</td>
+<td>黄立新</td>
+<td>浙江师范大学</td>
+<td>浙江省高等学校精品在线开放课程共享平台</td>
+</tr>
+<tr>
+<td>现代教育技术</td>
+<td>傅钢善</td>
+<td>陕西师范大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>交互式电子白板教学应用</td>
+<td>张筱兰</td>
+<td>西北师范大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>科学的精神与方法</td>
+<td>梁昌洪</td>
+<td>西安电子科技大学</td>
+<td>智慧树</td>
+</tr>
+<tr>
+<td>信息检索</td>
+<td>黄如花</td>
+<td>武汉大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>文献管理与信息分析</td>
+<td>罗昭锋</td>
+<td>中国科学技术大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>心理学概论</td>
+<td>彭凯平</td>
+<td>清华大学</td>
+<td>学堂在线</td>
+</tr>
+<tr>
+<td>沟通心理学</td>
+<td>裴秋宇</td>
+<td>哈尔滨工业大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>管理沟通</td>
+<td>赵洱岽</td>
+<td>华北电力大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>管理沟通：思维与技能</td>
+<td>张莉</td>
+<td>哈尔滨工业大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>拓展英语词汇</td>
+<td>李秀清</td>
+<td>青岛大学</td>
+<td>优课联盟</td>
+</tr>
+<tr>
+<td>国际交流英语</td>
+<td>周之南</td>
+<td>哈尔滨工业大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>新科学家英语：演讲与写作</td>
+<td>李雪</td>
+<td>哈尔滨工业大学</td>
+<td>爱课程（中国大学MOOC）</td>
+</tr>
+<tr>
+<td>翻译有“道”</td>
+<td>冯庆华</td>
+<td>上海外国语大学</td>
+<td>智慧树</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>Teaching work</category>
+      </categories>
+      <tags>
+        <tag>Personal improvement</tag>
+        <tag>Crouse</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Manage_Hadoop_clusters_in_HDInsight_by_using_Azure_PowerShell_in_China</title>
+    <url>/2018/04/08/Manage_Hadoop_clusters_in_HDInsight_by_using_Azure_PowerShell_in_China/</url>
+    <content><![CDATA[<p>+++<br>date = 2016-04-20<br>lastmod = 2017-09-03<br>draft = false<br>tags = [“Azure”,”HDinsight Hadoop”]<br>title = “中国区用Azure powshell管理HDinsight Hadoop集群目”<br>math = true<br>summary = “介绍如何在Azure上管理Hadoop集群”</p>
+<p>[header]<br>+++</p>
+<p>本文记录在微软中国区用Azure powshell管理HDinsight集群的注意点，可能将来在中国区Azure与global Azure同步后，不再适用。<br>参考文档为：</p>
+<blockquote>
+<p><a href="https://azure.microsoft.com/en-us/documentation/articles/hdinsight-administer-use-powershell/" target="_blank" rel="noopener">https://azure.microsoft.com/en-us/documentation/articles/hdinsight-administer-use-powershell/</a><br><a href="https://www.azure.cn/zh-cn/documentation/articles/hdinsight-administer-use-powershell/" target="_blank" rel="noopener">https://www.azure.cn/zh-cn/documentation/articles/hdinsight-administer-use-powershell/</a></p>
+</blockquote>
+<p>此过程得到了世纪互联的工程师Zhang Xiangyu，Jun Chen，He Shu的帮助。</p>
+<h2 id="仅有一点"><a href="#仅有一点" class="headerlink" title="仅有一点"></a>仅有一点</h2><p>加上参数</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">–Environment AzureChinaCloud</span><br></pre></td></tr></table></figure>
+<p> 或</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">–EnvironmentName AzureChinaCloud</span><br></pre></td></tr></table></figure>
+<p> 添加订阅、登陆账号等，都要加,哪个参数能用加哪个</p>
+<p>![Fig. 1 添加账户](/img/manage hadoop by powshell fig 1.png)</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">PS C:\Users\Administrator&gt; Add-AzureAccount -Environment AzureChinaCloud</span><br><span class="line"></span><br><span class="line">Id                                                     Type Subscriptions                 Tenants</span><br><span class="line">--                                                     ---- -------------                 -------</span><br><span class="line">CaptainTeam@Narosoftware.p...                          User e95f0f96-8b16-4711-95bf-17... &#123;583d7d1f-5904-4b88-af62-7...</span><br><span class="line"></span><br><span class="line">&#96;</span><br></pre></td></tr></table></figure>
+<p>![Fig. 2 登陆账户](/img/manage hadoop by powshell fig 2.png)</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">PS C:\Users\Administrator&gt; Login-AzureRmAccount –EnvironmentName AzureChinaCloud</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">Environment           : AzureChinaCloud</span><br><span class="line">Account               : CaptainTeam@Narosoftware.partner.onmschina.cn</span><br><span class="line">TenantId              : 583d7d1f-5904-4b88-af62-7f9d528b8ef1</span><br><span class="line">SubscriptionId        : e95f0f96-8b16-4711-95bf-17bf1e8dd128</span><br><span class="line">CurrentStorageAccount :</span><br></pre></td></tr></table></figure>
+]]></content>
+  </entry>
+  <entry>
+    <title>leatest-information</title>
+    <url>/2020/04/02/leatest-information/</url>
+    <content><![CDATA[<h1 id="Bio"><a href="#Bio" class="headerlink" title="Bio"></a>Bio</h1><p>Hongfa is an assistant professor at Guizhou University of Finance and Economics. Concurrently, he is working with Prof. Changgen Peng as a postdoc fellow at State Key Laboratory of Public Big Data, Guiyang. His research interests include security &amp; privacy  of mechine learning, graph data, genomic data, data opening and sharing, etc..</p>
+<h1 id="News"><a href="#News" class="headerlink" title="News"></a>News</h1><ul>
+<li>Nov. 2020. [Congrats!] Qi He is supported by GUFE Foundation with a Graduate Fund.</li>
+<li>Sept. 2020. [Congrats!] Hongfa is supported by the NSFC with an Youth Fund.<a href="http://www.nsfc.gov.cn/publish/portal0/tab434/info78680.htm" target="_blank" rel="noopener">News</a></li>
+<li>Jul. 2020. [Congrats!] Hongfa is supported by the China Postdoctoral Foundation as a postdoc fellow at Guizhou University.<a href="http://jj.chinapostdoctor.org.cn/website/showinfo.html?infoid=f3b87adf-1b06-43c2-826a-a291bda3791c" target="_blank" rel="noopener">News</a></li>
+<li>Apr. 2020. 欢迎报考、调剂贵州财经大学计算机科学与技术硕士研究生。</li>
+<li>Jan. 2020. Our paper entitled “隐私保护的信息熵模型及其度量方法” is selected as one of high-impact papers of <em>Journal of Software</em>, 2018. <a href="http://www.jos.org.cn/jos/ch/reader/view_news.aspx?id=20200106114350001" target="_blank" rel="noopener">链接</a></li>
+</ul>
+<h1 id="Selected-Publications"><a href="#Selected-Publications" class="headerlink" title="Selected Publications"></a>Selected Publications</h1><ol>
+<li><strong>Hongfa Ding</strong>, Youliang Tian*, Changgen Peng*, Youshan Zhang, Shuwen Xiang. Inference attacks on genomic privacy with an improved HMM and an RCNN model for unrelated individuals. Information Sciences, 2020, 512: 207-218. DOI: 10.1016/j.ins.2019.09.036</li>
+<li><strong>丁红发</strong>,彭长根,田有亮,向淑文. 基于演化博弈的隐私风险自适应访问控制模型. 通信学报, 2019, 40(12): 9-20. <a href="http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2019240#1" target="_blank" rel="noopener">pdf</a></li>
+<li><strong>Hongfa Ding</strong>, Changgen Peng*, Youliang Tian, Shuwen Xiang. A risk adaptive access control model based on Markov for big data in the cloud, International Journal of High Performance Computing and Networking, 2019, 13(4):464-475.DOI:10.1504/IJHPCN.2019.099269</li>
+<li><strong>Hongfa Ding</strong>, Changgen Peng*, Youliang Tian, Shuwen Xiang. A Game Theoretical Analysis of Risk Adaptive Access Control for Privacy Preserving, in Proc. of 2019 International Conference on Networking and Network Applications (NaNA), 2019, Daegu, Korea. DOI: 10.1109/NaNA.2019.00052</li>
+<li>Xing Ding, Changgen Peng*, <strong>Hongfa Ding</strong>, Maoni Wang, Hui Yang, Qinyong Yu. User Identity Authentication and Identification Based on Multi-Factor Behavior Features. GLOBECOM Workshops 2019: 1-6. DOI: 10.1109/GCWkshps45667.2019.9024581</li>
+<li>彭长根,<strong>丁红发</strong>,朱义杰,田有亮,符祖峰.隐私保护的信息熵模型及其度量方法.软件学报,2016,27(08):1891-1903. <a href="http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5096&journal_id=jos" target="_blank" rel="noopener">pdf</a></li>
+</ol>
+<h1 id="Projects"><a href="#Projects" class="headerlink" title="Projects"></a>Projects</h1><p>Here are several under going projects of our research team, and you are welcome to contact me.</p>
+<ol>
+<li>Privacy quantification of networks</li>
+<li>Privacy inference attack of graph</li>
+<li>Privacy preserving graph mining</li>
+<li>Anonymization of graph</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>install_r_on_azure_hdinsight_in_china</title>
+    <url>/2018/04/08/install_r_on_azure_hdinsight_in_china/</url>
+    <content><![CDATA[<p>+++<br>date = 2016-04-20<br>lastmod = 2017-09-03<br>draft = false<br>tags = [“Rhadoop”,”Azure”]<br>title = “中国区Azure在windows HDinsight上安装Rhadoop”<br>math = true<br>summary = “介绍如何在Azure安装rhadoop”</p>
+<p>[header]<br>+++</p>
+<p>本文记录在windows 操作系统上安装Azure Hdinsight 的Rhadoop过程及核心步骤，仅适用于中国区Azure，在未来中国区Azure与Global Azure同步后，可能不在适用。<br>参考MSDN链接为，该链接适用Global Azure。</p>
+<blockquote>
+<p><a href="https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-r-scripts/" target="_blank" rel="noopener">https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-r-scripts/</a></p>
+</blockquote>
+<p>此过程得到了世纪互联的工程师Zhang Xiangyu，Jun Chen，He Shu的帮助。</p>
+<h2 id="登陆Azure账户"><a href="#登陆Azure账户" class="headerlink" title="登陆Azure账户"></a>登陆Azure账户</h2><p>用微软分配的Azure账户登陆，进入到门户界面。</p>
+<p>![Firg. 1 login page](/img/install r on hdinsight Fig 1.png)</p>
+<h2 id="自定义部署HDinsight"><a href="#自定义部署HDinsight" class="headerlink" title="自定义部署HDinsight"></a>自定义部署HDinsight</h2><ol>
+<li>新建HDinsight</li>
+</ol>
+<p>![Firg. 2 deploy HDinsight](/img/install r on hdinsight Fig 2.png)</p>
+<ol start="2">
+<li>填写集群信息</li>
+</ol>
+<p>![Firg. 3 cluster information](/img/install r on hdinsight Fig 3.png)</p>
+<p>3.直到最后一步</p>
+<p>![Firg. 4 Install R scripts](/img/install r on hdinsight Fig 4.png)<br>该脚本地址为:</p>
+<blockquote>
+<p><a href="https://hdiconfigactions.blob.core.windows.net/rconfigactionv02/r-installer-v02.ps1" target="_blank" rel="noopener">https://hdiconfigactions.blob.core.windows.net/rconfigactionv02/r-installer-v02.ps1</a></p>
+</blockquote>
+<p>并且提交，系统自动部署</p>
+<p>![Firg. 5 submits](/img/install r on hdinsight Fig 5.png)</p>
+<h2 id="Rhadoop测试"><a href="#Rhadoop测试" class="headerlink" title="Rhadoop测试"></a>Rhadoop测试</h2><p>1.下载rdp文件,并远程登录</p>
+<p>![Firg. 6 download rdp](/img/install r on hdinsight Fig 6.png)</p>
+<p>![Firg. 7 remote login by rdp](/img/install r on hdinsight Fig 7.png)</p>
+<p>2.测试脚本</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(rmr2)</span><br><span class="line">library(rhdfs)</span><br><span class="line">#rhdfs.init()  第一次运行Rhadoop要用此句初始化hdfs</span><br><span class="line">ints &#x3D; to.dfs(1:100)</span><br><span class="line">calc &#x3D; mapreduce(input &#x3D; ints, map &#x3D; function(k, v) cbind(v, 2*v))</span><br><span class="line">from.dfs(calc)</span><br></pre></td></tr></table></figure>
+
+<p>![Firg. 7 test R scripts](/img/install r on hdinsight Fig 8.png)</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>manage_users_and_privileges_on_CDH_Hadoop2</title>
+    <url>/2018/04/08/manage_users_and_privileges_on_CDH_Hadoop2/</url>
+    <content><![CDATA[<p>+++<br>date = 2016-04-20<br>lastmod = 2017-09-03<br>draft = false<br>tags = [“CDH”,”Rhadoop”]<br>title = “CDH hadoop2用户及权限管理”<br>math = true<br>summary = “一篇关于CDH上的hadoop用户管理实践记录”</p>
+<p>[header]<br>+++</p>
+<p>由于CDH的安全机制较社区版更加完善，多用户提交任务时，需要进一步进行权限分配。本文是在基于CDH应用Rhadoop server时，多租户分别提交任务，需要多用户都有权限提交任务进行数据分析。参照网络资源进行整理，实践的记录。</p>
+<h2 id="默认用户及权限"><a href="#默认用户及权限" class="headerlink" title="默认用户及权限"></a>默认用户及权限</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[cloudera@quickstart ~]$ id cloudera</span><br><span class="line">uid&#x3D;501(cloudera) gid&#x3D;501(cloudera) groups&#x3D;501(cloudera),502(default)</span><br></pre></td></tr></table></figure>
+
+<h2 id="添加linux用户"><a href="#添加linux用户" class="headerlink" title="添加linux用户"></a>添加linux用户</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[cloudera@quickstart ~]$ sudo useradd -g cloudera -G default zhaodan</span><br><span class="line">[cloudera@quickstart ~]$ id zhaodan</span><br><span class="line">uid&#x3D;504(zhaodan) gid&#x3D;501(cloudera) groups&#x3D;501(cloudera),502(default)</span><br><span class="line">[cloudera@quickstart ~]$ sudo passwd zhaodan</span><br><span class="line">Changing password for user zhaodan.</span><br><span class="line">New password: </span><br><span class="line">BAD PASSWORD: it is based on a dictionary word</span><br><span class="line">BAD PASSWORD: is too simple</span><br><span class="line">Retype new password: </span><br><span class="line">passwd: all authentication tokens updated successfully.</span><br></pre></td></tr></table></figure>
+
+<h2 id="默认hdfs用户及权限"><a href="#默认hdfs用户及权限" class="headerlink" title="默认hdfs用户及权限"></a>默认hdfs用户及权限</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[cloudera@quickstart ~]$ sudo -u hdfs hadoop fs -ls &#x2F;user</span><br><span class="line">Found 11 items</span><br><span class="line">drwxr-xr-x   - cloudera      cloudera            0 2016-06-02 10:03 &#x2F;user&#x2F;cloudera</span><br><span class="line">drwxr-xr-x   - mapred        hadoop              0 2016-06-02 08:41 &#x2F;user&#x2F;history</span><br><span class="line">drwxrwxrwx   - hive          supergroup          0 2015-11-18 13:06 &#x2F;user&#x2F;hive</span><br><span class="line">drwxrwxrwx   - hue           supergroup          0 2016-06-04 21:28 &#x2F;user&#x2F;hue</span><br><span class="line">drwxrwxrwx   - jenkins       supergroup          0 2015-11-18 13:03 &#x2F;user&#x2F;jenkins</span><br><span class="line">drwxrwxrwx   - oozie         supergroup          0 2015-11-18 13:04 &#x2F;user&#x2F;oozie</span><br><span class="line">drwxrwxrwx   - root          supergroup          0 2016-06-02 09:49 &#x2F;user&#x2F;root</span><br><span class="line">drwxr-xr-x   - hdfs          supergroup          0 2015-11-18 13:06 &#x2F;user&#x2F;spark</span><br></pre></td></tr></table></figure>
+
+<h2 id="添加hdfs用户并赋权限"><a href="#添加hdfs用户并赋权限" class="headerlink" title="添加hdfs用户并赋权限"></a>添加hdfs用户并赋权限</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[cloudera@quickstart ~]$ sudo -u hdfs hadoop fs -mkdir &#x2F;user&#x2F;zhaodan</span><br><span class="line">[cloudera@quickstart ~]$ sudo -u hdfs hadoop fs -chown -R zhaodan:supergroup &#x2F;user&#x2F;zhaodan</span><br></pre></td></tr></table></figure>
+
+<p>查看添加成功后的用户</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[cloudera@quickstart ~]$ sudo -u hdfs hadoop fs -ls &#x2F;user</span><br><span class="line">Found 11 items</span><br><span class="line">drwxr-xr-x   - cloudera      cloudera            0 2016-06-02 10:03 &#x2F;user&#x2F;cloudera</span><br><span class="line">drwxr-xr-x   - mapred        hadoop              0 2016-06-02 08:41 &#x2F;user&#x2F;history</span><br><span class="line">drwxrwxrwx   - hive          supergroup          0 2015-11-18 13:06 &#x2F;user&#x2F;hive</span><br><span class="line">drwxrwxrwx   - hue           supergroup          0 2016-06-04 21:28 &#x2F;user&#x2F;hue</span><br><span class="line">drwxrwxrwx   - jenkins       supergroup          0 2015-11-18 13:03 &#x2F;user&#x2F;jenkins</span><br><span class="line">drwxrwxrwx   - oozie         supergroup          0 2015-11-18 13:04 &#x2F;user&#x2F;oozie</span><br><span class="line">drwxrwxrwx   - root          supergroup          0 2016-06-02 09:49 &#x2F;user&#x2F;root</span><br><span class="line">drwxr-xr-x   - hdfs          supergroup          0 2015-11-18 13:06 &#x2F;user&#x2F;spark</span><br><span class="line">drwxr-xr-x   - zhaodan       supergroup          0 2016-06-06 04:56 &#x2F;user&#x2F;zhaodan</span><br></pre></td></tr></table></figure>
+<h2 id="测试Rhadoop执行效果"><a href="#测试Rhadoop执行效果" class="headerlink" title="测试Rhadoop执行效果"></a>测试Rhadoop执行效果</h2><h3 id="用zhaodan用户登录"><a href="#用zhaodan用户登录" class="headerlink" title="用zhaodan用户登录"></a>用zhaodan用户登录</h3><p><img src="/img/Rhadoop_test.png" alt="登录图"></p>
+<h3 id="测试结果"><a href="#测试结果" class="headerlink" title="测试结果"></a>测试结果</h3><p>测试代码如下：</p>
+<figure class="highlight plain"><figcaption><span>, eval</span></figcaption><table><tr><td class="code"><pre><span class="line">Sys.setenv(HADOOP_CMD&#x3D;&quot;&#x2F;usr&#x2F;bin&#x2F;hadoop&quot;)</span><br><span class="line">Sys.setenv(HADOOP_STREAMING&#x3D;&quot;&#x2F;usr&#x2F;jars&#x2F;hadoop-streaming-2.6.0-cdh5.5.0.jar&quot;)</span><br><span class="line">library(rmr2)</span><br><span class="line">library(rhdfs)</span><br><span class="line">hdfs.init()</span><br><span class="line">from.dfs(to.dfs(1:100))</span><br><span class="line">from.dfs(mapreduce(to.dfs(1:100)))</span><br></pre></td></tr></table></figure>
+
+<p>测试执行结果</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&gt; Sys.setenv(HADOOP_CMD&#x3D;&quot;&#x2F;usr&#x2F;bin&#x2F;hadoop&quot;)</span><br><span class="line">&gt; Sys.setenv(HADOOP_STREAMING&#x3D;&quot;&#x2F;usr&#x2F;jars&#x2F;hadoop-streaming-2.6.0-cdh5.5.0.jar&quot;)</span><br><span class="line">&gt; library(rmr2)</span><br><span class="line">Please review your hadoop settings. See help(hadoop.settings)</span><br><span class="line">Warning message:</span><br><span class="line">S3 methods ‘gorder.default’, ‘gorder.factor’, ‘gorder.data.frame’, ‘gorder.matrix’, ‘gorder.raw’ were declared in NAMESPACE but not found </span><br><span class="line">&gt; library(rhdfs)</span><br><span class="line">Loading required package: rJava</span><br><span class="line"></span><br><span class="line">HADOOP_CMD&#x3D;&#x2F;usr&#x2F;bin&#x2F;hadoop</span><br><span class="line"></span><br><span class="line">Be sure to run hdfs.init()</span><br><span class="line">&gt; hdfs.init()</span><br><span class="line">16&#x2F;06&#x2F;06 05:50:48 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable</span><br><span class="line">&gt; from.dfs(to.dfs(1:100))</span><br><span class="line">16&#x2F;06&#x2F;06 05:50:55 INFO zlib.ZlibFactory: Successfully loaded &amp; initialized native-zlib library</span><br><span class="line">16&#x2F;06&#x2F;06 05:50:55 INFO compress.CodecPool: Got brand-new compressor [.deflate]</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:08 INFO zlib.ZlibFactory: Successfully loaded &amp; initialized native-zlib library</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:08 INFO compress.CodecPool: Got brand-new decompressor [.deflate]</span><br><span class="line">$key</span><br><span class="line">NULL</span><br><span class="line"></span><br><span class="line">$val</span><br><span class="line">  [1]   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18</span><br><span class="line"> [19]  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36</span><br><span class="line"> [37]  37  38  39  40  41  42  43  44  45  46  47  48  49  50  51  52  53  54</span><br><span class="line"> [55]  55  56  57  58  59  60  61  62  63  64  65  66  67  68  69  70  71  72</span><br><span class="line"> [73]  73  74  75  76  77  78  79  80  81  82  83  84  85  86  87  88  89  90</span><br><span class="line"> [91]  91  92  93  94  95  96  97  98  99 100</span><br><span class="line"></span><br><span class="line">&gt; from.dfs(mapreduce(to.dfs(1:100)))</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:15 INFO zlib.ZlibFactory: Successfully loaded &amp; initialized native-zlib library</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:15 INFO compress.CodecPool: Got brand-new compressor [.deflate]</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:20 INFO Configuration.deprecation: mapred.reduce.tasks is deprecated. Instead, use mapreduce.job.reduces</span><br><span class="line">packageJobJar: [] [&#x2F;usr&#x2F;jars&#x2F;hadoop-streaming-2.6.0-cdh5.5.0.jar] &#x2F;tmp&#x2F;streamjob2143821556273089706.jar tmpDir&#x3D;null</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:22 INFO client.RMProxy: Connecting to ResourceManager at quickstart.cloudera&#x2F;127.0.0.1:8032</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:23 INFO client.RMProxy: Connecting to ResourceManager at quickstart.cloudera&#x2F;127.0.0.1:8032</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:25 INFO mapred.FileInputFormat: Total input paths to process : 1</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:25 INFO mapreduce.JobSubmitter: number of splits:2</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:25 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1465198858509_0005</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:26 INFO impl.YarnClientImpl: Submitted application application_1465198858509_0005</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:26 INFO mapreduce.Job: The url to track the job: http:&#x2F;&#x2F;quickstart.cloudera:8088&#x2F;proxy&#x2F;application_1465198858509_0005&#x2F;</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:26 INFO mapreduce.Job: Running job: job_1465198858509_0005</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:40 INFO mapreduce.Job: Job job_1465198858509_0005 running in uber mode : false</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:40 INFO mapreduce.Job:  map 0% reduce 0%</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:55 INFO mapreduce.Job:  map 100% reduce 0%</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:56 INFO mapreduce.Job: Job job_1465198858509_0005 completed successfully</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:56 INFO mapreduce.Job: Counters: 30</span><br><span class="line">	File System Counters</span><br><span class="line">		FILE: Number of bytes read&#x3D;0</span><br><span class="line">		FILE: Number of bytes written&#x3D;238538</span><br><span class="line">		FILE: Number of read operations&#x3D;0</span><br><span class="line">		FILE: Number of large read operations&#x3D;0</span><br><span class="line">		FILE: Number of write operations&#x3D;0</span><br><span class="line">		HDFS: Number of bytes read&#x3D;1196</span><br><span class="line">		HDFS: Number of bytes written&#x3D;907</span><br><span class="line">		HDFS: Number of read operations&#x3D;14</span><br><span class="line">		HDFS: Number of large read operations&#x3D;0</span><br><span class="line">		HDFS: Number of write operations&#x3D;4</span><br><span class="line">	Job Counters </span><br><span class="line">		Launched map tasks&#x3D;2</span><br><span class="line">		Data-local map tasks&#x3D;2</span><br><span class="line">		Total time spent by all maps in occupied slots (ms)&#x3D;3028864</span><br><span class="line">		Total time spent by all reduces in occupied slots (ms)&#x3D;0</span><br><span class="line">		Total time spent by all map tasks (ms)&#x3D;23663</span><br><span class="line">		Total vcore-seconds taken by all map tasks&#x3D;23663</span><br><span class="line">		Total megabyte-seconds taken by all map tasks&#x3D;3028864</span><br><span class="line">	Map-Reduce Framework</span><br><span class="line">		Map input records&#x3D;3</span><br><span class="line">		Map output records&#x3D;3</span><br><span class="line">		Input split bytes&#x3D;208</span><br><span class="line">		Spilled Records&#x3D;0</span><br><span class="line">		Failed Shuffles&#x3D;0</span><br><span class="line">		Merged Map outputs&#x3D;0</span><br><span class="line">		GC time elapsed (ms)&#x3D;167</span><br><span class="line">		CPU time spent (ms)&#x3D;3480</span><br><span class="line">		Physical memory (bytes) snapshot&#x3D;357543936</span><br><span class="line">		Virtual memory (bytes) snapshot&#x3D;2249273344</span><br><span class="line">		Total committed heap usage (bytes)&#x3D;468713472</span><br><span class="line">	File Input Format Counters </span><br><span class="line">		Bytes Read&#x3D;988</span><br><span class="line">	File Output Format Counters </span><br><span class="line">		Bytes Written&#x3D;907</span><br><span class="line">16&#x2F;06&#x2F;06 05:51:56 INFO streaming.StreamJob: Output directory: &#x2F;tmp&#x2F;file7bb818093092</span><br><span class="line">16&#x2F;06&#x2F;06 05:52:11 INFO fs.TrashPolicyDefault: Namenode trash configuration: Deletion interval &#x3D; 1440 minutes, Emptier interval &#x3D; 0 minutes.</span><br><span class="line">Moved: &#39;hdfs:&#x2F;&#x2F;quickstart.cloudera:8020&#x2F;tmp&#x2F;file7bb872530f20&#39; to trash at: hdfs:&#x2F;&#x2F;quickstart.cloudera:8020&#x2F;user&#x2F;zhaodan&#x2F;.Trash&#x2F;Current</span><br><span class="line">$key</span><br><span class="line">NULL</span><br><span class="line"></span><br><span class="line">$val</span><br><span class="line">  [1]   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18</span><br><span class="line"> [19]  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36</span><br><span class="line"> [37]  37  38  39  40  41  42  43  44  45  46  47  48  49  50  51  52  53  54</span><br><span class="line"> [55]  55  56  57  58  59  60  61  62  63  64  65  66  67  68  69  70  71  72</span><br><span class="line"> [73]  73  74  75  76  77  78  79  80  81  82  83  84  85  86  87  88  89  90</span><br><span class="line"> [91]  91  92  93  94  95  96  97  98  99 100</span><br></pre></td></tr></table></figure>
+
+<h2 id="参考网页"><a href="#参考网页" class="headerlink" title="参考网页"></a>参考网页</h2><ol>
+<li>CDH使用文档 <a href="http://www.superwu.cn/2015/06/08/2767/" target="_blank" rel="noopener">http://www.superwu.cn/2015/06/08/2767/</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>一些博弈论开发库</title>
+    <url>/2020/04/04/some-game-theory-tools/</url>
+    <content><![CDATA[<p>有三个博弈论的开发库，这里记录一下，以后学习完逐个进行详细记录。三个分别是Nashpy, Axelrod和Gambit。</p>
+<ol>
+<li><p>Nashpy是一个二人博弈计算的库，也可以用来模拟重复博弈、演化博弈。网上已有大牛进行了剪刀石头布游戏的演化博弈模拟，可以查阅帖子<a href="https://vknight.org/unpeudemath/mathematics/2017/03/08/simple-evolutionary-process.html" target="_blank" rel="noopener">A simple evolutionary process in 40 lines of Python</a>.</p>
+</li>
+<li><p>Axelrod是一个囚徒困境的库，还没有更多了解。</p>
+</li>
+<li><p>Gambit是一个多人博弈的库，提供了比较多的接口，其中就有Python接口，按照手册安装相应的依赖包，就可以用这个库了。</p>
+</li>
+</ol>
+]]></content>
+  </entry>
+</search>
